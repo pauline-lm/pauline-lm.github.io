@@ -1,12 +1,14 @@
 ---
-permalink: /
+layout: archive
 title: "Research"
-excerpt: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 
 About my research [forthcoming!]
 
