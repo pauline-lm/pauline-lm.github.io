@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Pauline Larrouy-Maestri"
-  avatar           : "asset/profile.png"
+  avatar           : "profile.png"
   bio              : "Researcher"
   location         : "Germany"
   employer         :
