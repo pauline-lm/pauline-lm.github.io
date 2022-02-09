@@ -1,11 +1,8 @@
 ---
-permalink: /talksposters/
+layout: archive
 title: "Talks / Posters"
-excerpt: "Talks / Posters"
+permalink: /talksposters/
 author_profile: true
-redirect_from: 
-  - /talksposters/
-  - /talksposters.html
 ---
 
 Talks and posters [forthcoming!]
