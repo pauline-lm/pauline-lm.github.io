@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pauline Larrouy-Maestri"
 title_separator          : "-"
-name                     : # &name "Pauline Larrouy-Maestri"
+name                     : ## &name "Pauline Larrouy-Maestri"
 description              : &description "Researcher"
 url                      : https://pauline-lm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pauline Larrouy-Maestri"
+  name             : #"Pauline Larrouy-Maestri"
   avatar           : "profile.png"
   bio              : "Researcher"
   location         : "Germany"
@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _thoughts
   - scope:
       path: ""
-      type: portfolio
+      type: thougts
     values:
       layout: single
       author_profile: true
@@ -244,7 +235,23 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _invited talks
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: invited talk
+      author_profile: true
+      share: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
