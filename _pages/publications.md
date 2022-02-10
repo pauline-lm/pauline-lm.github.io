@@ -39,7 +39,6 @@ Larrouy-Maestri, P., & Morsomme, D. (2014). Criteria and tools for objectively a
 Larrouy-Maestri, P., & Morsomme, D. (2014). The effects of stress on singing voice accuracy. Journal of Voice, 28(1), 52 58.
 Larrouy-Maestri, P., Lévêque, Y., Schön, D., Giovanni, A., & Morsomme, D. (2013). The evaluation of singing voice accuracy: A comparison between subjective and objective methods. Journal of Voice, 27(2), 259e1-e5.
 Larrouy-Maestri, P., Leybaert, J., & Kolinsky, R. (2013). The benefit of musical and linguistic expertise on language acquisition in sung material. Musicae Scientae, 17(2), 217-228.
-![image](https://user-images.githubusercontent.com/98092926/153317849-0e126703-c866-4768-9d62-af32cbad3504.png)
 
 
 
