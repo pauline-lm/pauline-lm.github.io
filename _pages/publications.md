@@ -9,22 +9,30 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (In press). Pitch units in music and speech prosody. In How language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
+**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (In press). Pitch units in music and speech prosody. In *How language speaks to music: prosody from a cross-domain perspective*, Richard Wiese, Mathias Scharinger Eds.
 
-Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2022). The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception. Emotion, 22(1), 213–225. [https://doi.org/10.1037/emo0001048](https://doi.org/10.1037/emo0001048){:target="_blank"}
+Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2022). The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception. *Emotion, 22*(1), 213–225. doi:[10.1037/emo0001048](https://doi.org/10.1037/emo0001048){:target="_blank"}
 
-Durojaye, C., Fink, L., Wald-Fuhrmann, M., Roeske, T. & **Larrouy-Maestri, P.** (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. [https://doi.org/10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
+Durojaye, C., Fink, L., Wald-Fuhrmann, M., Roeske, T. & **Larrouy-Maestri, P.** (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. doi:[10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
 
-**Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (2021). Are you your best judge?: On the self-evaluation of singing. Journal of Voice 
+**Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (2021). Are you your best judge?: On the self-evaluation of singing. *Journal of Voice* 
 
-Holz, N., Larrouy-Maestri, P., & Poeppel, D. (2021). The paradoxical role of emotional intensity in the perception of vocal affect. Scientific Reports
-Roeske, T., Larrouy-Maestri, P., Sakamoto, Y., & Poeppel, D. (2020). Listening to birdsong reveals basic features of rate perception and aesthetic judgements. Proceedings of the Royal Society B, 287(1923), 20193010. doi: 10.1098/rspb.2019.3010
-Larrouy-Maestri, P. (2020). Evaluation tools in singing education: a comparison of human and technological measures. In Routledge Companion to Interdisciplinary Studies in Singing, Helga R. Gudmundsdottir, Carol Beynon, Karen Ludke, Annabel J. Cohen Eds, chap 21, pp. 253-267.
-Harrison, P., Marjieh, R., Adolfi, F., van Rijn, P., Anglada-Tort, M., Tchernichovski, O., Larrouy-Maestri, P. & Jacoby, N. (2020). Gibbs Sampling with people. Advances in Neural Information Processing Systems, 33 (NeurIPS 2020)
-Larrouy-Maestri, P., Harisson, P., Müllensiefen, D. (2019). The Mistuning Perception Test: A new measurement instrument. Behavior Research Methods, 51, 663-675. doi: 10.3758/s13428-019-01225-1
-Ayoub, M-R., Larrouy-Maestri, P., & Morsomme. (2019). The effect of smoking on the fundamental frequency of the speaking voice. Journal of Voice. doi: 10.1016/j.jvoice.2018.04.001
-Larrouy-Maestri, P. (2018). “I know it when I hear it”: On listeners’ perception of mistuning. Music & Science, 1, 1-17. doi: 10.1177/2059204318784582
-Larrouy-Maestri, P., & Pfordresher, P. (2018). Pitch perception in music: Do scoops matter? Journal of Experimental Psychology: Human Perception and Performance, 44(10), 1523-1541.doi: 10.1037/xhp0000550
+Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2021). The paradoxical role of emotional intensity in the perception of vocal affect. *Scientific Reports*[https://www.nature.com/articles/s41598-021-88431-0](https://www.nature.com/articles/s41598-021-88431-0){:target="_blank"}.
+
+Roeske, T., **Larrouy-Maestri, P.**, Sakamoto, Y., & Poeppel, D. (2020). Listening to birdsong reveals basic features of rate perception and aesthetic judgements. *Proceedings of the Royal Society B, 287*(1923), 20193010. doi:[10.1098/rspb.2019.3010](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.3010){:target="_blank"}.
+
+**Larrouy-Maestri, P.** (2020). Evaluation tools in singing education: a comparison of human and technological measures. In *Routledge Companion to Interdisciplinary Studies in Singing*, Helga R. Gudmundsdottir, Carol Beynon, Karen Ludke, Annabel J. Cohen Eds, chap 21, pp. 253-267.
+
+Harrison, P., Marjieh, R., Adolfi, F., van Rijn, P., Anglada-Tort, M., Tchernichovski, O., **Larrouy-Maestri, P.** & Jacoby, N. (2020). Gibbs Sampling with people. *Advances in Neural Information Processing Systems, 33* [NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/7880d7226e872b776d8b9f23975e2a3d-Abstract.html){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Harisson, P., Müllensiefen, D. (2019). The Mistuning Perception Test: A new measurement instrument. *Behavior Research Methods, 51*, 663-675. doi:[10.3758/s13428-019-01225-1](https://link.springer.com/article/10.3758/s13428-019-01225-1){:target="_blank"}.
+
+Ayoub, M-R., **Larrouy-Maestri, P.**, & Morsomme. (2019). The effect of smoking on the fundamental frequency of the speaking voice. *Journal of Voice*. doi:[10.1016/j.jvoice.2018.04.001](https://www.sciencedirect.com/science/article/abs/pii/S0892199717305921){:target="_blank"}.
+
+**Larrouy-Maestri, P.** (2018). “I know it when I hear it”: On listeners’ perception of mistuning. *Music & Science, 1*, 1-17. doi:[10.1177/2059204318784582](https://journals.sagepub.com/doi/10.1177/2059204318784582){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, & Pfordresher, P. (2018). Pitch perception in music: Do scoops matter? *Journal of Experimental Psychology: Human Perception and Performance, 44*(10), 1523-1541.doi:[10.1037/xhp0000550]()
+
 Larrouy-Maestri, P. (2017). The influence of non-musical variables on the evaluation of vocal pitch accuracy. CFMAE Interdisciplinary Journal for Music and Art Pedagogy, Special Issue on Singing & Voice.
 Merrill, J., & Larrouy-Maestri, P. (2017) Vocal features of song and speech: Insights from Schoenberg’s Pierrot lunaire. Frontiers in Psychology, 8:1108. doi: 10.3389/fpsyg.2017.01108
 Larrouy-Maestri, P., Morsomme, D. Magis, D., & Poeppel, D. (2017). Lay listeners can evaluate the pitch accuracy of operatic voices. Music Perception,34(4), 489-495. doi:10.1525/MP.2017.34.4.489
