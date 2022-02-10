@@ -15,7 +15,7 @@ This background might look disparate but no, it is all about **Sounds and Meanin
 
 More generally, I enjoy science, playing piano & life (random order).
 
-**For the full description of my Education and Professional experiences, see CV**
+**For the full description of my Education and Professional experiences, please check the CV**
 
 <!--
 
