@@ -62,7 +62,9 @@ Hutchins, S., **Larrouy-Maestri, P.**, & Peretz, I. (2014) Singing ability is ro
 **Larrouy-Maestri, P.**, Leybaert, J., & Kolinsky, R. (2013). The benefit of musical and linguistic expertise on language acquisition in sung material. *Musicae Scientae, 17*(2), 217-228. doi:[10.1177/1029864912473470](https://psycnet.apa.org/record/2013-21513-005){:target="_blank"}.
 
 
-**For Talks, Posters, and Outreach, please check the CV**
+
+
+**For talks, posters, non peer-reviewed publications and outreach, please check the CV**
 
 <!--
 {% include base_path %}
