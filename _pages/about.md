@@ -22,18 +22,12 @@ Education
 
 : Field: Cognitive psychology, Speech therapy, Music.
 
-**2007 – 2009**: Master in speech therapy at the University of Brussels, Highest distinction, ULB (Belgium) 
-
-**2005 – 2007**: Bachelor in speech therapy at the University of Brussels, ULB (Belgium) 
-
-**2006 – 2010**: Bachelor in music (piano) at the Royal Conservatory of Mons (Belgium) 
-
-**2003 – 2005**: Bachelor in psychology at the University of Toulouse, le Mirail (France) 
-
-**2002 – 2004**: Bachelor in pedagogy at the University of Toulouse, le Mirail (France) 
-
-**2009 – 2003**: University degree in music therapy at University of Montpellier, Paul-Valery (France) 
-
+**2007 – 2009**: Master in speech therapy at the University of Brussels, Highest distinction, ULB (Belgium)<br />
+**2005 – 2007**: Bachelor in speech therapy at the University of Brussels, ULB (Belgium)<br />
+**2006 – 2010**: Bachelor in music (piano) at the Royal Conservatory of Mons (Belgium)<br />
+**2003 – 2005**: Bachelor in psychology at the University of Toulouse, le Mirail (France)<br />
+**2002 – 2004**: Bachelor in pedagogy at the University of Toulouse, le Mirail (France)<br />
+**2009 – 2003**: University degree in music therapy at University of Montpellier, Paul-Valery (France)<br />
 **1999**: Baccalauréat (scientific section) at lycée Foch, Rodez (France)
 
 
