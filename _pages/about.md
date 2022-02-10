@@ -21,7 +21,7 @@ More generally, I enjoy science, playing piano & life (random order).
 
 Education
 ======
-**2013**: Ph.D, [Department of Psychology and Education (section: Speech Therapy)](https://www.fplse.uliege.be/cms/c_4037467/en/faculte-de-psychologie-logo-et-sc-de-l-education){:target="_blank"}, University of Liège (Belgium)
+**2013**: Ph.D, Department of Psychology and Education (section: Speech Therapy), University of Liège (Belgium)
 : Dissertation title: Evaluation of singing voice accuracy in a melodic context
 : Committee: Steve Majerus, Régine Kolinsky, Nathalie Henrich, Irène Deliège, Dominique Morsomme
 
