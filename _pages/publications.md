@@ -31,24 +31,38 @@ Ayoub, M-R., **Larrouy-Maestri, P.**, & Morsomme. (2019). The effect of smoking 
 
 **Larrouy-Maestri, P.** (2018). “I know it when I hear it”: On listeners’ perception of mistuning. *Music & Science, 1*, 1-17. doi:[10.1177/2059204318784582](https://journals.sagepub.com/doi/10.1177/2059204318784582){:target="_blank"}.
 
-**Larrouy-Maestri, P.**, & Pfordresher, P. (2018). Pitch perception in music: Do scoops matter? *Journal of Experimental Psychology: Human Perception and Performance, 44*(10), 1523-1541.doi:[10.1037/xhp0000550]()
+**Larrouy-Maestri, P.**, & Pfordresher, P. (2018). Pitch perception in music: Do scoops matter? *Journal of Experimental Psychology: Human Perception and Performance, 44*(10), 1523-1541.doi:[10.1037/xhp0000550](https://pubmed.ncbi.nlm.nih.gov/29975095/){:target="_blank"}.
 
-Larrouy-Maestri, P. (2017). The influence of non-musical variables on the evaluation of vocal pitch accuracy. CFMAE Interdisciplinary Journal for Music and Art Pedagogy, Special Issue on Singing & Voice.
-Merrill, J., & Larrouy-Maestri, P. (2017) Vocal features of song and speech: Insights from Schoenberg’s Pierrot lunaire. Frontiers in Psychology, 8:1108. doi: 10.3389/fpsyg.2017.01108
-Larrouy-Maestri, P., Morsomme, D. Magis, D., & Poeppel, D. (2017). Lay listeners can evaluate the pitch accuracy of operatic voices. Music Perception,34(4), 489-495. doi:10.1525/MP.2017.34.4.489
-Larrouy-Maestri, P. (2016). Justesse en voix chantée: bien évaluer pour bien guider. In De la voix parlée au chant, Claire Klein-Dallant Ed., ISBN: 978-1-234-56789-7. pp. 515-522.
-Larrouy-Maestri, P., Magis, D., Grabenhorst, M., & Morsomme, D. (2015). Layman versus Professional Musician: Who Makes the Better Judge? PLoS ONE, 10(8), e0135394.
-Pfordresher, P. Q., & Larrouy-Maestri, P. (2015). On drawing a line through the spectrogram: How do we understand deficits of vocal pitch imitation? Frontiers in Human Neuroscience, 9.
-Hutchins, S., Larrouy-Maestri, P., & Peretz, I. (2014) Singing ability is rooted in vocal-motor of pitch. Attention, Perception, and Psychophysics, 76(8), 2522-2530.
-Larrouy-Maestri, P., Magis, D., & Morsomme, D. (2014) The evaluation of vocal accuracy: The case of operatic singing voices. Music Perception, 32(1), 1-10.
-Larrouy-Maestri, P., Magis, D., & Morsomme, D. (2014). The effect of melody and technique on the singing voice accuracy of trained singers. Logopedics Phoniatrics Vocology, 39, 126-129.
-Larrouy-Maestri, P., Magis, D., & Morsomme, D. (2014) Effects of melody and technique on acoustical and musical features of Western operatic singing voices. Journal of Voice, 28(3), 332-340.
-Larrouy-Maestri, P., & Morsomme, D. (2014). Criteria and tools for objectively analysing the vocal accuracy of a popular song. Logopedics Phoniatrics Vocology. 39, 11-18.
-Larrouy-Maestri, P., & Morsomme, D. (2014). The effects of stress on singing voice accuracy. Journal of Voice, 28(1), 52 58.
-Larrouy-Maestri, P., Lévêque, Y., Schön, D., Giovanni, A., & Morsomme, D. (2013). The evaluation of singing voice accuracy: A comparison between subjective and objective methods. Journal of Voice, 27(2), 259e1-e5.
-Larrouy-Maestri, P., Leybaert, J., & Kolinsky, R. (2013). The benefit of musical and linguistic expertise on language acquisition in sung material. Musicae Scientae, 17(2), 217-228.
+**Larrouy-Maestri, P.** (2017). The influence of non-musical variables on the evaluation of vocal pitch accuracy. [*CFMAE Interdisciplinary Journal for Music and Art Pedagogy, Special Issue on Singing & Voice.*](https://cfmaejournal.wordpress.com/2019/01/29/cfmae-vol-9-2017-singing-voice-special-issue/){:target="_blank"}.
+
+Merrill, J., & **Larrouy-Maestri, P.** (2017) Vocal features of song and speech: Insights from Schoenberg’s Pierrot lunaire. *Frontiers in Psychology, 8*:1108. doi:[10.3389/fpsyg.2017.01108](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01108/full){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Morsomme, D. Magis, D., & Poeppel, D. (2017). Lay listeners can evaluate the pitch accuracy of operatic voices. *Music Perception,34*(4), 489-495. doi:[10.1525/MP.2017.34.4.489](https://online.ucpress.edu/mp/article-abstract/34/4/489/62808/Lay-Listeners-Can-Evaluate-the-Pitch-Accuracy-of?redirectedFrom=fulltext){:target="_blank"}.
+
+**Larrouy-Maestri, P.** (2016). Justesse en voix chantée: bien évaluer pour bien guider. In *De la voix parlée au chant*, Claire Klein-Dallant Ed., ISBN: 978-1-234-56789-7. pp. 515-522.
+
+**Larrouy-Maestri, P.**, Magis, D., Grabenhorst, M., & Morsomme, D. (2015). Layman versus Professional Musician: Who Makes the Better Judge? *PLoS ONE, 10*(8), e0135394. doi:[10.1371/journal.pone.0135394](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135394#:~:text=The%20present%20study%20investigates%20laypersons,melodies%20performed%20by%20untrained%20singers.&text=The%20findings%20suggest%20that%20the,pitch%20accuracy%20of%20untrained%20singers.){:target="_blank"}.
+
+Pfordresher, P. Q., & **Larrouy-Maestri, P.** (2015). On drawing a line through the spectrogram: How do we understand deficits of vocal pitch imitation? *Frontiers in Human Neuroscience, 9*. doi:[10.3389/fnhum.2015.00271](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00271/full){:target="_blank"}.
+
+Hutchins, S., **Larrouy-Maestri, P.**, & Peretz, I. (2014) Singing ability is rooted in vocal-motor of pitch. *Attention, Perception, and Psychophysics, 76*(8), 2522-2530. doi:[10.3758/s13414-014-0732-1](https://pubmed.ncbi.nlm.nih.gov/25060548/){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Magis, D., & Morsomme, D. (2014) The evaluation of vocal accuracy: The case of operatic singing voices. *Music Perception, 32*(1), 1-10. doi:[10.1525/mp.2014.32.1.1](https://www.jstor.org/stable/10.1525/mp.2014.32.1.1){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Magis, D., & Morsomme, D. (2014). The effect of melody and technique on the singing voice accuracy of trained singers. *Logopedics Phoniatrics Vocology, 39*, 126-129. doi:[10.3109/14015439.2013.777112](https://pubmed.ncbi.nlm.nih.gov/23570497/){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Magis, D., & Morsomme, D. (2014) Effects of melody and technique on acoustical and musical features of Western operatic singing voices. *Journal of Voice, 28*(3), 332-340. doi:[10.1016/j.jvoice.2013.10.019](https://pubmed.ncbi.nlm.nih.gov/24495421/){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, & Morsomme, D. (2014). Criteria and tools for objectively analysing the vocal accuracy of a popular song. *Logopedics Phoniatrics Vocology. 39*, 11-18. doi:[10.3109/14015439.2012.696139](https://pubmed.ncbi.nlm.nih.gov/22721558/){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, & Morsomme, D. (2014). The effects of stress on singing voice accuracy. *Journal of Voice, 28*(1), 52 58.doi:[10.1016/j.jvoice.2013.07.008](https://www.jvoice.org/article/S0892-1997(13)00144-6/references){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Lévêque, Y., Schön, D., Giovanni, A., & Morsomme, D. (2013). The evaluation of singing voice accuracy: A comparison between subjective and objective methods. *Journal of Voice, 27*(2), 259e1-e5.doi:[10.1016/j.jvoice.2012.11.003](https://www.jvoice.org/article/S0892-1997(12)00195-6/fulltext){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Leybaert, J., & Kolinsky, R. (2013). The benefit of musical and linguistic expertise on language acquisition in sung material. *Musicae Scientae, 17*(2), 217-228. doi:[10.1177/1029864912473470](https://psycnet.apa.org/record/2013-21513-005){:target="_blank"}.
 
 
+**For Talks, Posters, and Outreach, please check the CV**
 
 <!--
 {% include base_path %}
