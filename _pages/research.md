@@ -34,20 +34,20 @@ Forthcoming
 
 Current collaboration with
 ======
-Melanie Wald-Fuhrmann
-David Poeppel
-Daniela Sammler
-Lauren Fink
-Xiangbin Teng
-Lea Fink
-Marc Pell
-Winfried Menninghaus
-Pol van Rijn
-Vanessa Kegel
-Claire Pelofi
+Melanie Wald-Fuhrmann<br />
+David Poeppel<br />
+Daniela Sammler<br />
+Lauren Fink<br />
+Xiangbin Teng<br />
+Lea Fink<br />
+Marc Pell<br />
+Winfried Menninghaus<br />
+Pol van Rijn<br />
+Vanessa Kegel<br />
+Claire Pelofi<br />
 
 Current supervision of
 ======
-Camila Bruder
-Madita Hoerster
-Zofia Hobubowska
+Camila Bruder<br />
+Madita Hoerster<br />
+Zofia Hobubowska<br />
