@@ -1,9 +1,9 @@
 ---
-title: ''
-date: 2021
-permalink: /posts/2012/08/blog-post-1/
+title: 'Barbara Club'
+date: 2021-09-01
+permalink: /posts/2021/09/barbaraclub/
 tags:
-  - cool posts
+  - barbara tillman
   - category1
   - category2
 ---
