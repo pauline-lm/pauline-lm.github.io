@@ -13,7 +13,9 @@ author_profile: true
 
 Whether it is music, speech, screams, or environmental sounds, **we make sense of sounds**. It seems trivial because it happens so rapidly and efficiently for most of us but its failure has serious consequences. To understand how it works (or does not work), I focus on different levels of analysis (à la Marr). Understanding the neurobiological mechanisms underlying the cognitive processes at play to make sense of sounds requires the definition of both the activities themselves (i.e., what does the system do/use and what is it good for) and the processes involved in performing such actions (i.e., how does it do it).
 
-Concretely, my daily activities turn around the acoustic description of categories (or mental representation of something abstract such as correctness, beauty, communication intention) and how they are processed. Here are some examples of current research projects:
+Concretely, my daily activities turn around the acoustic description of categories (or mental representation of something abstract such as correctness, beauty, communication intention) and how they are processed.
+
+Here are some examples of current research projects:
 
 
 Does it sound right? Perception of correctness in music
