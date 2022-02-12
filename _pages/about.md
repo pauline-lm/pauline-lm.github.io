@@ -18,7 +18,7 @@ More generally, I enjoy science, playing piano & life (random order).
 
 
 
-**For the full description of my education and professional experiences, please check the CV**
+**For the full description of my education and professional experiences, please check my [CV](https://pauline-lm.github.io/cv/){:target="_blank"}**
 
 <!--
 
