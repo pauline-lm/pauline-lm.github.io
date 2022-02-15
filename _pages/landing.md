@@ -13,4 +13,4 @@ I am Pauline Larrouy-Maestri. Here, you can find information [about me](https://
 <!--
 ![Brain and sounds: how do we make sense of sounds?](https://pauline-lm.github.io/images/PLM_image.png)  
 -->
-<Brain and sounds src="pauline-lm.github.io/images/PLM_image.png" width="100" height="100">
+<[Brain and sounds] src="pauline-lm.github.io/images/PLM_image.png" width="100" height="100">
