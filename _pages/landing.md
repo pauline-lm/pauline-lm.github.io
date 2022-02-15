@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PLM"
+title: ""
 excerpt: "PLM"
 author_profile: true
 ---
