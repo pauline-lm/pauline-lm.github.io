@@ -26,11 +26,13 @@ Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maes
 
 Sound categorization
 ======
-Forthcoming
+
+Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material such as sprechgesang (Merrill & Larrouy-Maestri, 2017) or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021). With the help of Madita Hörster, we try to put together the pieces of the puzzle and figure out how we manage (or not) to categorise sounds. 
 
 
 Cognitive process behind prosodic perception
 ======
+
 The tone of the voice carries information about the emotional state or intention of a speaker. Whereas the nature of acoustic features of contrasted prosodic signals has attracted a lot of attention in the last decades (particularly since Banse & Scherer, 1996), the communication of emotions/intentions remains poorly understood. Also, most of listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers but misunderstandings easily occur.
 
 This project focuses on the cognitive processes involved in prosody comprehension. More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information with methods from psychophysics and electrophysiology. By clarifying how listeners deal (or fail to deal) with acoustic information carried by the tone of voice, we aim at better understanding a crucial human ability, that is, the communication of emotions/intentions through speech.
