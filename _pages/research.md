@@ -48,6 +48,8 @@ Roots of singing preferences
 
 As suggested by the many singing contests and music programs in the media, the singing voice attracts ample attention. Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri et al., 2015) and trained singers (Larrouy-Maestri et al., 2017). The definition of pitch accuracy (i.e., correctness) relies on specific acoustic features that can be measured. However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance but to enjoy it. With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we investigate what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
 
+***
+
 *Current collaboration with*
 ---------------
 
