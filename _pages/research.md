@@ -43,13 +43,14 @@ Music, like speech, can be described as a continuous stream of sounds that is pa
 
 By identifying relevant information at different timescales and understanding how humans deals with such information, this line of research aims at enlightening both music cognition and neurophysiological processing of auditory sequences.
 
-Roots of singing evaluation
+Roots of singing preferences
 ======
-Forthcoming
 
+As suggested by the many singing contests and music programs in the media, the singing voice attracts ample attention. Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri et al., 2015) and trained singers (Larrouy-Maestri et al., 2017). The definition of pitch accuracy (i.e., correctness) relies on specific acoustic features that can be measured. However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance but to enjoy it. With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we investigate what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
 
 *Current collaboration with*
-======
+---------------
+
 Melanie Wald-Fuhrmann<br />
 David Poeppel<br />
 Daniela Sammler<br />
@@ -65,7 +66,8 @@ Natalie Holz<br />
 Claire Pelofi<br />
 
 *Current supervision of*
-======
+---------------
+
 Camila Bruder<br />
 Madita Hoerster<br />
 Zofia Hobubowska<br />
