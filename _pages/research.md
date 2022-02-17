@@ -36,7 +36,7 @@ Together with Lauren Fink, Madita Hörster, and Melanie Wald-Fuhrmann, we try to
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signature contributes to music listening behaviour/enjoyment.
 
 
-Music corner
+Music
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Perception of correctness*
@@ -54,7 +54,7 @@ Previous studies showed that lay and expert listeners share similar definitions 
 With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we examine what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
 
 
-Language/communication corner
+Language/communication
 ======
 
 The tone of the voice carries information about the emotional state or intention of a speaker. Whereas the nature of acoustic features of contrasted prosodic signals has attracted a lot of attention in the last decades (particularly since Banse & Scherer, 1996), the communication of emotions/intentions remains poorly understood. Also, most of listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers but misunderstandings easily occur. This project focuses on the cognitive processes involved in prosody comprehension.
