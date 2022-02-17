@@ -58,12 +58,6 @@ The tone of the voice carries information about the emotional state or intention
 
 More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information (in the context of  <em>irony</em>, <em>affective</em> or <em>intention communication</em>) with methods from psychophysics and electrophysiology.
 
-Auditory sequences processing
-======
-Music, like speech, can be described as a continuous stream of sounds that is parsed in units of different length. While tones are usually defined as the smallest discrete unit in Western music, we recently provided empirical evidence for the specific role of smaller units in music: scoops, which are small dynamic pitch change at the start or end of sung notes within a melody (Larrouy-Maestri & Pfordresher, 2018, Larrouy-Maestri, Poeppel, & Pfordresher, in press). Together with Xiangbin Teng and David Poeppel, we focused on longer sequences and identified a neural signature that reliably tracks musical phrases (>5 seconds) online. Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signature contributes to music listening behaviour/enjoyment.
-
-By identifying relevant information at different timescales and understanding how humans deals with such information, this line of research aims at enlightening both music cognition and neurophysiological processing of auditory sequences.
-
 
 
 ***
@@ -91,3 +85,8 @@ Claire Pelofi<br />
 Camila Bruder<br />
 Madita Hoerster<br />
 Zofia Hobubowska<br />
+
+***
+
+If you wish to know more, feel free to contact me at plm@ae.mpg.de :)
+======
