@@ -40,19 +40,23 @@ Music corner
 
 *Perception of correctness*
 ---------------
-Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maestri et al., 2013, 2015), with some tolerance (Larrouy-Maestri, 2018), and if a band plays on the beat or not. However, as is true for several types of judgments (e.g., beauty or obscenity) the foundation of the categorization of performances as "correct" or not remains unclear. This project examines what ‘correctness’ means in different musical contexts, across dimensions (pitch and time), and the cognitive processes behind such categorization. To do so, we investigate auditory processing of manipulated sequences with methods from psychophysics, physiology and electrophysiology and focus on potential listeners’ profiles.
+Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maestri et al., 2013, 2015), with some tolerance (Larrouy-Maestri, 2018). However, as is true for several types of judgments (e.g., beauty or obscenity) the foundation of the categorization of performances as "correct" remains unclear. This project examines what ‘correctness’ means in different musical contexts, across dimensions (pitch and time), and the cognitive processes behind such categorization.
+
+To do so, we investigate auditory processing of manipulated sequences with methods from psychophysics, physiology and electrophysiology and focus on potential listeners’ profiles.
 
 *From correctness to preferences*
 ---------------
 
-Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri, Magis, Grabenhorst, & Morsomme, 2015) and trained singers (Larrouy-Maestri, Morsomme, Magis, & Poeppel, 2017) or to their own performances (Larrouy-Maestri, Wang, Vairo Nunes, & Poeppel, 2021). However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance but to enjoy it. With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we investigate what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
+Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri, Magis, Grabenhorst, & Morsomme, 2015) and trained singers (Larrouy-Maestri, Morsomme, Magis, & Poeppel, 2017) or to their own performances (Larrouy-Maestri, Wang, Vairo Nunes, & Poeppel, 2021). However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance but to enjoy it. 
+
+With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we examine what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
 
 Language/communication corner
 ======
 
-The tone of the voice carries information about the emotional state or intention of a speaker. Whereas the nature of acoustic features of contrasted prosodic signals has attracted a lot of attention in the last decades (particularly since Banse & Scherer, 1996), the communication of emotions/intentions remains poorly understood. Also, most of listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers but misunderstandings easily occur.
+The tone of the voice carries information about the emotional state or intention of a speaker. Whereas the nature of acoustic features of contrasted prosodic signals has attracted a lot of attention in the last decades (particularly since Banse & Scherer, 1996), the communication of emotions/intentions remains poorly understood. Also, most of listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers but misunderstandings easily occur. This project focuses on the cognitive processes involved in prosody comprehension.
 
-This project focuses on the cognitive processes involved in prosody comprehension. More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information with methods from psychophysics and electrophysiology. By clarifying how listeners deal (or fail to deal) with acoustic information carried by the tone of voice, we aim at better understanding a crucial human ability, that is, the communication of emotions/intentions through speech.
+More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information (in the context of  <em>irony</em>, <em>affective</em> or <em>intention communication</em>) with methods from psychophysics and electrophysiology.
 
 Auditory sequences processing
 ======
