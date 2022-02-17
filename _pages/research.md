@@ -18,10 +18,9 @@ Concretely, my daily activities turn around the acoustic description of categori
 Here are some examples of current research projects:
 
 
-
+***
 Sound processing
 ======
-
 *Categorisation of sounds*
 ---------------
 Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material such as sprechgesang (Merrill & Larrouy-Maestri, 2017) or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021).
@@ -35,9 +34,9 @@ Music, like speech, can be described as a continuous stream of sounds that is pa
 Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signature contributes to music listening behaviour/enjoyment.
 
 
+***
 Music corner
 ======
-
 *Perception of correctness*
 ---------------
 Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maestri et al., 2013, 2015), with some tolerance (Larrouy-Maestri, 2018). However, as is true for several types of judgments (e.g., beauty or obscenity) the foundation of the categorization of performances as "correct" remains unclear. This project examines what ‘correctness’ means in different musical contexts, across dimensions (pitch and time), and the cognitive processes behind such categorization.
@@ -46,25 +45,22 @@ To do so, we investigate auditory processing of manipulated sequences with metho
 
 *From correctness to preferences*
 ---------------
-
 Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri, Magis, Grabenhorst, & Morsomme, 2015) and trained singers (Larrouy-Maestri, Morsomme, Magis, & Poeppel, 2017) or to their own performances (Larrouy-Maestri, Wang, Vairo Nunes, & Poeppel, 2021). However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance but to enjoy it. 
 
 With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we examine what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
 
+
+***
 Language/communication corner
 ======
-
 The tone of the voice carries information about the emotional state or intention of a speaker. Whereas the nature of acoustic features of contrasted prosodic signals has attracted a lot of attention in the last decades (particularly since Banse & Scherer, 1996), the communication of emotions/intentions remains poorly understood. Also, most of listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers but misunderstandings easily occur. This project focuses on the cognitive processes involved in prosody comprehension.
 
 More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information (in the context of  <em>irony</em>, <em>affective</em> or <em>intention communication</em>) with methods from psychophysics and electrophysiology.
 
 
-
 ***
-
 *Current collaboration with*
 ---------------
-
 Melanie Wald-Fuhrmann<br />
 David Poeppel<br />
 Daniela Sammler<br />
@@ -79,14 +75,13 @@ Vanessa Kegel<br />
 Natalie Holz<br />
 Claire Pelofi<br />
 
+***
 *Current supervision of*
 ---------------
-
 Camila Bruder<br />
 Madita Hoerster<br />
 Zofia Hobubowska<br />
 
 ***
-
-If you wish to know more, feel free to contact me at plm@ae.mpg.de :)
+If you wish to know more, feel free to contact [me](plm@ae.mpg.de){:target="_blank"}
 ======
