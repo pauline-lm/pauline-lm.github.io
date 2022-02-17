@@ -18,7 +18,7 @@ Concretely, my daily activities turn around the acoustic description of categori
 Here are some examples of current research projects:
 
 
-***
+
 Sound processing
 ======
 
@@ -37,7 +37,6 @@ Music, like speech, can be described as a continuous stream of sounds that is pa
 Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signature contributes to music listening behaviour/enjoyment.
 
 
-***
 Music corner
 ======
 
@@ -56,7 +55,6 @@ Previous studies showed that lay and expert listeners share similar definitions 
 With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we examine what “preference” means when listening to sung performances, and to explore the roots of such aesthetic experience.
 
 
-***
 Language/communication corner
 ======
 
@@ -65,7 +63,6 @@ The tone of the voice carries information about the emotional state or intention
 More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information (in the context of  <em>irony</em>, <em>affective</em> or <em>intention communication</em>) with methods from psychophysics and electrophysiology.
 
 
-***
 *Current collaboration with*
 ---------------
 
@@ -83,7 +80,6 @@ Vanessa Kegel<br />
 Natalie Holz<br />
 Claire Pelofi<br />
 
-***
 *Current supervision of*
 ---------------
 
@@ -91,7 +87,7 @@ Camila Bruder<br />
 Madita Hoerster<br />
 Zofia Hobubowska<br />
 
-***
+
 If you wish to know more, feel free to contact me at **plm@ae.mpg.de**
 ======
 
