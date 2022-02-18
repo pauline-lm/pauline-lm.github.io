@@ -27,16 +27,15 @@ Sound processing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material, such as sprechgesang (Merrill & Larrouy-Maestri, 2017), or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features, as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021).
 
-![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png) *From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).* 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Together with Lauren Fink, Madita Hörster, and Melanie Wald-Fuhrmann, we try to put together the pieces of the puzzle and figure out how we manage (or not) to categorise sounds. 
+![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png)*From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).* 
+Together with Lauren Fink, Madita Hörster, and Melanie Wald-Fuhrmann, we try to put together the pieces of the puzzle and figure out how we manage (or not) to categorise sounds. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Auditory sequence processing*
 ---------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Music, like speech, can be described as a continuous stream of sounds that is parsed in units of different length. While tones are usually defined as the smallest discrete unit in Western music, we recently provided empirical evidence for the specific role of smaller units in music: scoops, which are small dynamic pitch change at the start or end of sung notes within a melody (Larrouy-Maestri & Pfordresher, 2018, Larrouy-Maestri, Poeppel, & Pfordresher, in press). Together with Xiangbin Teng and David Poeppel, we focused on longer sequences and identified a neural signature that reliably tracks musical phrases (>5 seconds) online.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signatures contribute to music listening behaviour/enjoyment.
+Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signatures contribute to music listening behaviour/enjoyment.
 
 
 Music
@@ -45,14 +44,14 @@ Music
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Perception of correctness*
 ---------------
 
-Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maestri et al., 2013, 2015), with some tolerance (Larrouy-Maestri, 2018). However, as is true for several types of judgments (e.g., beauty or obscenity), the foundation of the categorization of performances as "correct" remains unclear. This project examines what ‘correctness’ means in different musical contexts and dimensions (pitch and time), as well as the cognitive processes behind such categorization.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maestri et al., 2013, 2015), with some tolerance (Larrouy-Maestri, 2018). However, as is true for several types of judgments (e.g., beauty or obscenity), the foundation of the categorization of performances as "correct" remains unclear. This project examines what ‘correctness’ means in different musical contexts and dimensions (pitch and time), as well as the cognitive processes behind such categorization.
 
 To do so, we investigate auditory processing of manipulated sequences with methods from psychophysics, physiology, and electrophysiology, and focus on potential listeners’ profiles.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*From correctness to preferences*
 ---------------
 
-Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri, Magis, Grabenhorst, & Morsomme, 2015) and trained singers (Larrouy-Maestri, Morsomme, Magis, & Poeppel, 2017), or to their own performances (Larrouy-Maestri, Wang, Vairo Nunes, & Poeppel, 2021). However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance, but rather to enjoy it. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previous studies showed that lay and expert listeners share similar definitions of what is “correct” when listening to untrained (Larrouy-Maestri, Magis, Grabenhorst, & Morsomme, 2015) and trained singers (Larrouy-Maestri, Morsomme, Magis, & Poeppel, 2017), or to their own performances (Larrouy-Maestri, Wang, Vairo Nunes, & Poeppel, 2021). However, we usually don’t attend opera or pop concerts to evaluate the correctness of a performance, but rather to enjoy it. 
 
 With Camila Bruder, and the wise insights of Ed Vessel, David Poeppel, and Melanie Wald-Fuhrmann, we examine what “preference” means when listening to sung performances, and explore the roots of such aesthetic experience.
 
