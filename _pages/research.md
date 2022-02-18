@@ -25,15 +25,19 @@ Sound processing
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Categorisation of sounds*
 ---------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material, such as sprechgesang (Merrill & Larrouy-Maestri, 2017), or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features, as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material, such as [sprechgesang (Merrill & Larrouy-Maestri, 2017)](<img src="https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png" onmouseover="this.src='https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png'"), or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features, as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021).
 
 <!--
 ![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png)
 *From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).* 
 -->
+<!--
+<img src="https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png">
+*From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).
 
-<img src="https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png" width="100" />
-\textcolor{grey}{*From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).*}
+
+<img src="a.jpg" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" />  
+-->
 
 Together with Lauren Fink, Madita Hörster, and Melanie Wald-Fuhrmann, we try to put together the pieces of the puzzle and figure out how we manage (or not) to categorise sounds. 
 
