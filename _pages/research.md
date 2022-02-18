@@ -27,7 +27,7 @@ Sound processing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material, such as [sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.pdf){:target="_blank"} (Merrill & Larrouy-Maestri, 2017), or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features, as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021).
 
-![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.pdf){width=33%}
+![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.png)
 
 <!--
 {width=33%}![Image2 Title](./path/to/image2.pdf){width=33%}![Image3 Title](./path/to/image3.pdf){width=33%}
