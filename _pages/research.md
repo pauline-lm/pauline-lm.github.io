@@ -27,9 +27,11 @@ Sound processing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although we quickly identify sounds as music or speech or scream, how we form such abstract categories is not so clear. By examining ambiguous material, such as [sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.pdf){:target="_blank"} (Merrill & Larrouy-Maestri, 2017), or performances from a West-African talking drum capable of speech surrogacy (Durojaye’’, Fink’’, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we clarified the association between music and speech categories and certain acoustic features, as well as the role of familiarity with the material. On the other hand, observing the perception of non-verbal vocalisation informed us about the ambiguity of certain categories (Holz, Larrouy-Maestri, & Poeppel, 2021).
 
-![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.pdf) 
+![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.pdf){width=33%}
 
 <!--
+{width=33%}![Image2 Title](./path/to/image2.pdf){width=33%}![Image3 Title](./path/to/image3.pdf){width=33%}
+
 *From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).* 
 
 <img src="a.jpg" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" />  
