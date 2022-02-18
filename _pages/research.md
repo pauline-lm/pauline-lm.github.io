@@ -29,6 +29,8 @@ Sound processing
 
 ![Categorisation of sounds: Sprechgesang](https://pauline-lm.github.io/images/Figure_Merrill_PLM_2017.png)
 
+![Categorisation of sounds: Dundun](https://pauline-lm.github.io/images/Figure_Durojaye_Fink_et_al_2021.png)
+
 <!--
 {width=33%}![Image2 Title](./path/to/image2.pdf){width=33%}![Image3 Title](./path/to/image3.pdf){width=33%}
 
