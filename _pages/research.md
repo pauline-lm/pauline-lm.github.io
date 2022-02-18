@@ -33,7 +33,7 @@ Sound processing
 -->
 
 <img src="https://pauline-lm.github.io/images/Merrill & Larrouy-Maestri, 2017_Figure.png" width="100" />
-*From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).* 
+\textcolor{grey}{*From Merrill & Larrouy-Maestri (2017). Features associated with song and speech. Illustration of the significant correlations between the different features (register, average pitch, pitch range, pitch variability, timbre, faucal distance, and tension; y-axis) and mode of phonation (spoken vs. sung, around “just about right,” JAR; x-axis).*}
 
 Together with Lauren Fink, Madita Hörster, and Melanie Wald-Fuhrmann, we try to put together the pieces of the puzzle and figure out how we manage (or not) to categorise sounds. 
 
