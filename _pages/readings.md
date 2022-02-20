@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Readings & Lessons learned"
+title: "Readings"
 permalink: /readings/
 author_profile: true
 ---
