@@ -5,7 +5,7 @@ permalink: /readings/
 author_profile: true
 ---
 
-2022 - February
+**2022 - February**
 
 [Heintz, C., & Scott-Phillips, T. (2022). Expression unleashed: The evolutionary & cognitive foundations of human communication. Behavioral and Brain Sciences, 1-46. doi:10.1017/S0140525X22000012](https://pubmed.ncbi.nlm.nih.gov/34983701/){:target="_blank"}
 
