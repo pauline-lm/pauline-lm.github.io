@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Lisa Inspiration"
-permalink: /lisa/
+title: "Lessons learned"
+permalink: /lessons/
 author_profile: true
 ---
 
