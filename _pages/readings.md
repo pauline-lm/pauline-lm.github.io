@@ -5,7 +5,11 @@ permalink: /readings/
 author_profile: true
 ---
 
-Under constructions.. Be patient :)
+2022 - February
+
+[Heintz, C., & Scott-Phillips, T. (2022). Expression unleashed: The evolutionary & cognitive foundations of human communication. Behavioral and Brain Sciences, 1-46. doi:10.1017/S0140525X22000012](https://pubmed.ncbi.nlm.nih.gov/34983701/){:target="_blank"}
+
+***
 
 [How hard is cognitive science?](https://www.youtube.com/watch?app=desktop&v=2bdK_zu1Ikw){:target="_blank"}
 Talk by Iris van Rooij, at the Department of Linguistics, Cognitive Science, and Semiotics & Interacting Minds Center, Aarhus University, 17-2-2022. 
