@@ -1,5 +1,9 @@
-
-
+---
+layout: archive
+title: "Listening"
+permalink: /listening/
+author_profile: true
+---
 
 *[How hard is cognitive science?](https://www.youtube.com/watch?app=desktop&v=2bdK_zu1Ikw){:target="_blank"}
 Talk by Iris van Rooij, at the Department of Linguistics, Cognitive Science, and Semiotics & Interacting Minds Center, Aarhus University, 17-2-2022.* 
