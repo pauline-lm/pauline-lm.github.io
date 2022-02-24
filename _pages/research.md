@@ -77,6 +77,8 @@ Language/communication
 
 The tone of the voice carries information about the emotional state or intention of a speaker. Whereas the nature of acoustic features of contrasted prosodic signals has attracted a lot of attention in the last decades (particularly since Banse & Scherer, 1996), the communication of emotions/intentions remains poorly understood. Also, most listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers; however, misunderstandings easily occur. This project focuses on the cognitive processes involved in prosody comprehension.
 
+![Communication: Irony](https://pauline-lm.github.io/images/Figure_PLM_all_Irony.png)
+
 More specifically, we examine the categorization of utterances based on the integration of dynamic acoustic information (in the context of  <em>irony</em>, <em>affective</em>, or <em>intention communication</em>), with methods from psychophysics and electrophysiology.
 
 
