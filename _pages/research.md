@@ -49,6 +49,8 @@ Together with Lauren Fink, Madita Hörster, and Melanie Wald-Fuhrmann, we try to
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Music, like speech, can be described as a continuous stream of sounds that is parsed in units of different length. While tones are usually defined as the smallest discrete unit in Western music, we recently provided empirical evidence for the specific role of smaller units in music: scoops, which are small dynamic pitch change at the start or end of sung notes within a melody (Larrouy-Maestri & Pfordresher, 2018, Larrouy-Maestri, Poeppel, & Pfordresher, in press). Together with Xiangbin Teng and David Poeppel, we focused on longer sequences and identified a neural signature that reliably tracks musical phrases (>5 seconds) online.
 
+![Auditory sequence processings: Scoops](https://pauline-lm.github.io/images/Figure_PLM_Pfordresher_Poeppel.png)
+
 Recently joined by Lea Fink and Zofia Hobubowska on this project, we further explore how such signatures contribute to music listening behaviour/enjoyment.
 
 
