@@ -15,6 +15,6 @@ Definitely looking forward to read the comments about the proposed cognitive cap
 
 ***
 
-Wojcik, E.H., Lassman, D.J., & Vuvan, D.T. (2022). [Using a developmental-ecological approach to understand the relation between language and music.](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.762018/full) {:targets="_blank"} Frontiers in Psychology. 13:762018. doi: 10.3389/fpsyg.2022.762018 
+Wojcik, E.H., Lassman, D.J., & Vuvan, D.T. (2022). [Using a developmental-ecological approach to understand the relation between language and music.](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.762018/full){:targets="_blank"} Frontiers in Psychology. 13:762018. doi: 10.3389/fpsyg.2022.762018 
 
 This short perspective article gives arguments to use a developmental-ecological approach in music-language studies. It has been repeatedly shown that implicit learning is key in development but what is the “real” input that we receive when growing up? Inspired by research in other fields (e.g., motor and semantic development), the authors defend that describing input in real life (and how it unfolds over time) is a good idea to document listeners experience (and understand better adult cognition). Of course, there are challenges (e.g., how can we code the input? is it music? language? do we even agree on that?) but it is a good reminder that lab experiments are limited and that “field” experiments in this domain could be helpful.
