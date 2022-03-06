@@ -5,6 +5,16 @@ permalink: /reading/
 author_profile: true
 ---
 
+**2022 - March**
+
+*Luke S.G. (2017) [Evaluating significance in linear mixed-effects models in R.](https://pubmed.ncbi.nlm.nih.gov/27620283/){:targets="_blank"} Behavioral Research Methods, 49(4):1494-1502. doi: 10.3758/s13428-016-0809-y.*
+
+Evaluating significance of fixed effects in mixed-effect models is tricky. One often sees likelihood ratio test (LRT, comparison of fit of two models) or Wald tests (based on distribution). Here, Steven G Luke reports the Type 1 error rate for different simulations (changing the number of subjects and items) and different methods (the two usual ones and alternatives). In short: nothing is perfect. Also, it is good to remember that Type 1 error is sensitive to both the number of subjects and items. In other words, we cannot make up for a small number of subjects but having many items (and vice versa). This short article nicely explains why there are good reasons that p-values are not included by default in packages like lme4 and that one has to actually think instead of reporting blindly p-values.
+
+For more general thoughts on statistical methods used in psychological science, the work of [Geoff Cumming](https://scholar.google.com/citations?user=0YcrKmYAAAAJ&hl=en){:target="_blank”}, such as [The New Statistics: Why and How](https://journals.sagepub.com/doi/10.1177/0956797613504966){:target="_blank”} or these [great videos](https://www.youtube.com/user/geoffdcumming/videos){:target="_blank”} is an eye opener!
+
+***
+
 **2022 - February**
 
 *Heintz, C., & Scott-Phillips, T. (2022). [Expression unleashed: The evolutionary & cognitive foundations of human communication.](https://pubmed.ncbi.nlm.nih.gov/34983701/){:target="_blank"} Behavioral and Brain Sciences, 1-46. doi:10.1017/S0140525X22000012*
