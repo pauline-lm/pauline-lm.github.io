@@ -21,5 +21,8 @@ Lessons recently learned after too many trials/errors or googling hours.
 ### [Barbara Club](https://pauline-lm.github.io/barbara/){:target="_blank"} 
 On a weekly basis, we (i.e., interested colleagues and students) read and discussed the work of Barbara Tillmann on musical structure. We will summarize here our thoughts on this fascinating work!
 
+### [Quotes](https://pauline-lm.github.io/quotes/){:target="_blank"} 
+Kind of notes
+
 ### [Random thoughts](https://pauline-lm.github.io/random/){:target="_blank"} 
 Because life is not always about sounds and meanings, I might want to share other things here.
