@@ -15,6 +15,12 @@ For more general thoughts on statistical methods used in psychological science, 
 
 ***
 
+*Snow, D., Balog, H.L. (2002) [Do children produce the melody before the words? A review of developmental intonation research](https://www.sciencedirect.com/science/article/pii/S0024384102000608?via%3Dihub){:target="_blank”}, Lingua, 112(12), 1025-1058. doi: 10.1016/S0024-3841(02)00060-8*
+
+The authors review literature (published before 2002, obviously) on the expressive intonation of children during the first two years of life. Build on the work of giants of the field such as Bolinger (1986), Cooper and Sorensen (1981), ’t Hart (1981) or ’t Hart et al. (1990), they first define the notions of intonation groups, nuclear tones, tonal features, and tonal meanings, before reporting studies on the development of intonation itself. In (very) short: most literature suggests the use of precursors of intonation from the age 0;3 to 0;9, followed by a regression (at the beginning of a period of prosodic reorganisation that lasts until the end of the single-word period or longer), then developing again (with intentional communication). I am looking forward to read how the more recent literature (research using acoustic descriptors as well as cross-cultural and cross-domain approaches) supports (or not) the theoretical thoughts of the authors.
+
+***
+
 **2022 - February**
 
 *Heintz, C., & Scott-Phillips, T. (2022). [Expression unleashed: The evolutionary & cognitive foundations of human communication.](https://pubmed.ncbi.nlm.nih.gov/34983701/){:target="_blank"} Behavioral and Brain Sciences, 1-46. doi:10.1017/S0140525X22000012*
