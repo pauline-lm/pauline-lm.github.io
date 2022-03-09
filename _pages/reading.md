@@ -19,6 +19,14 @@ For more general thoughts on statistical methods used in psychological science, 
 
 The authors review literature (published before 2002, obviously) on the expressive intonation of children during the first two years of life. Build on the work of giants of the field such as Bolinger (1986), Cooper and Sorensen (1981), ’t Hart (1981) or ’t Hart et al. (1990), they first define the notions of intonation groups, nuclear tones, tonal features, and tonal meanings, before reporting studies on the development of intonation itself. In (very) short: most literature suggests the use of precursors of intonation from the age 0;3 to 0;9, followed by a regression (at the beginning of a period of prosodic reorganisation that lasts until the end of the single-word period or longer), then developing again (with intentional communication). I am looking forward to read how the more recent literature (research using acoustic descriptors as well as cross-cultural and cross-domain approaches) supports (or not) the theoretical thoughts of the authors.
 
+**Update on this topic** 
+
+*Wermke, K., Robb, M.P. & Schluter, P.J. (2021) [Melody complexity of infants’ cry and non-cry vocalisations increases across the first six months.](https://www.nature.com/articles/s41598-021-83564-8){:target="_blank”}, Scientific Reports 11, 4137. doi: 10.1038/s41598-021-83564-8*
+
+The authors examined more than 67,500 (!) cry and non-cry vocalisations of babies up to 6 months old. First, they discarded sounds without patterns and then counted the number of arcs (i.e., melodic line longer than 150ms, going up and down, with a frequency amplitude of at least three (for cry) or two (for non-cry) semitones). They observe an increase in complexity, from single arcs to multiple ones in a single vocalisation, in both cry and non-cry vocalisation across the first 180 days. They also see a slight complexity reduction in the non-cry vocalisations at about 140 days, which is earlier than what report [Snow and Balog (2002) in their review](https://www.sciencedirect.com/science/article/pii/S0024384102000608?via%3Dihub){:target="_blank”} but which confirms that the development is not linear. Kathleen Wermke and her co-authors discuss the role of neural, motor, and perceptual development in the complexification of vocalisations. 
+
+That is nice to see such a systematic approach and it is very tempting to analyse other acoustic aspects of this material (if this is not already done :)).
+
 ***
 
 **2022 - February**
