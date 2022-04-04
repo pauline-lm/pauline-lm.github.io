@@ -5,7 +5,7 @@ permalink: /reading/
 author_profile: true
 ---
 
-**2022 - March**
+**2022**
 
 *Luke S.G. (2017) [Evaluating significance in linear mixed-effects models in R.](https://pubmed.ncbi.nlm.nih.gov/27620283/){:targets="_blank"} Behavioral Research Methods, 49(4):1494-1502. doi: 10.3758/s13428-016-0809-y.*
 
@@ -40,8 +40,6 @@ The authors describe studies on perception and production of intonation that use
 The authors summarise findings on the mapping of prosodic cues to social meaning, which is an important ability to understand communicative partners (!). The authors remind us of the existence of intonation patterns (in production and perception) but, more interestingly, give an overview of what children “use to communicate”. For instance, children of 2 months old already make strong (acoustic) contrast between their positive and negative vocalisations, at 5 months old, they adapt their vocalisations to influence the environment, between 7 and 12 months old, a new area opens together with the joint attention abilities, and development continues, independently of grammatical development and before the emergence of 2-words combination. It is of course important to describe intonation development, like [Snow & Balog, 2002](https://www.sciencedirect.com/science/article/pii/S0024384102000608?via%3Dihub){:target="_blank”} or [Frota & Butler, 2018](https://labfon.letras.ulisboa.pt/texts/Frota-Butler_2018.pdf){:target="_blank”}, but this chapter add the “meaning” side, which gives a larger picture on this topic.
 
 ***
-
-**2022 - February**
 
 *Heintz, C., & Scott-Phillips, T. (2022). [Expression unleashed: The evolutionary & cognitive foundations of human communication.](https://pubmed.ncbi.nlm.nih.gov/34983701/){:target="_blank"} Behavioral and Brain Sciences, 1-46. doi:10.1017/S0140525X22000012*
 
