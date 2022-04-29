@@ -7,6 +7,14 @@ author_profile: true
 
 **2022**
 
+*[Towards a multimodal view on the neurobiology of language](https://videoportal.mpi.nl/Mediasite/Channel/nbl-key-issues-ii-mpi/watch/db7d0162fd004231880a4e202b7eb7c01d){:target="_blank”}. Talk by [Linda Drijvers](https://lindadrijvers.nl/){:target="_blank”}, group leader at the MPI for Psycholinguistics at the occasion of the [Neurobiology of Language: Key Issues and Ways Forward II conference](https://event.fourwaves.com/keyissues2022/pages){:target="_blank”}.*
+
+Linda Drijvers wonders makes communication successful. The take home messages of this talk are that 1) visual signals are immediately integrated with speech and constrain the interpretation space of the input, and 2) oscillatory synchronisation might facilitate multimodal integration by selecting, gating and integrating neural activity related to auditory and visual signals.
+
+That is a good reminder that models of language (and others!) need to take into account more ecologically valid contexts, with multimodal and social interaction information.
+
+***
+
 *[How hard is cognitive science?](https://www.youtube.com/watch?app=desktop&v=2bdK_zu1Ikw){:target="_blank"}
 Talk by Iris van Rooij, at the Department of Linguistics, Cognitive Science, and Semiotics & Interacting Minds Center, Aarhus University, 17-2-2022.* 
 
