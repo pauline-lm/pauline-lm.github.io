@@ -97,6 +97,9 @@ Simone Dalla Bella<br />
 Pol van Rijn<br />
 Vanessa Kegel<br />
 Claire Pelofi<br />
+Youssef Amin<br />
+Fredrik Ullén<br />
+Lara Pearson<br />
 
 Current supervision of
 ======
