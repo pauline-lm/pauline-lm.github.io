@@ -9,9 +9,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (In press). Pitch units in music and speech prosody. In *How language speaks to music: prosody from a cross-domain perspective*, Richard Wiese, Mathias Scharinger Eds.
+**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (2022). Pitch units in music and speech prosody. In How
+language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
+doi:[10.1515/9783110770186](https://www.degruyter.com/document/doi/10.1515/9783110770186/html){:target="_blank"}
 
 Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2022). The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception. *Emotion, 22*(1), 213–225. doi:[10.1037/emo0001048](https://doi.org/10.1037/emo0001048){:target="_blank"}
+
+Fink, L., Durojaye, C., Roeske, T., Wald-Fuhrmann, M., & **Larrouy-Maestri, P.** (2022). The dùndún
+drum helps us understand how we process speech and music. Frontiers for Young Minds, section
+Neuroscience and Psychology. Reviewed by kids
 
 Durojaye, C., Fink, L., Wald-Fuhrmann, M., Roeske, T. & **Larrouy-Maestri, P.** (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. doi:[10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
 
