@@ -9,19 +9,22 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (2022). Pitch units in music and speech prosody. In How
-language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
+Van Rijn, P., & **Larrouy-Maestri, P.** (in press) Modeling individual and cross-cultural variation in the mapping of emotions to speech prosody. *Nature Human Behavior* doi:[10.1038/s41562-022-01505-5](https://www.nature.com/articles/s41562-022-01505-5){:target="_blank"}
+
+**Larrouy-Maestri, P.**, Kegel, V., Schlotz, W., van Rijn, P., Menninghaus, W., & Poeppel, D. (in press) The meaning of spoken sentences can be twisted by a forward shift of prosodic stress. *Journal of Experimental Psychology: General*
+
+**Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (in press). Are you your best judge?: On the selfevaluation of singing. *Journal of Voice*
+
+**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (2022). Pitch units in music and speech prosody. In How language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
 doi:[10.1515/9783110770186](https://www.degruyter.com/document/doi/10.1515/9783110770186/html){:target="_blank"}
 
 Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2022). The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception. *Emotion, 22*(1), 213–225. doi:[10.1037/emo0001048](https://doi.org/10.1037/emo0001048){:target="_blank"}
 
 Fink, L., Durojaye, C., Roeske, T., Wald-Fuhrmann, M., & **Larrouy-Maestri, P.** (2022). The dùndún
-drum helps us understand how we process speech and music. Frontiers for Young Minds, section
-Neuroscience and Psychology. Reviewed by kids
+drum helps us understand how we process speech and music. *Frontiers for Young Minds, section
+Neuroscience and Psychology*. Reviewed by kids
 
 Durojaye, C., Fink, L., Wald-Fuhrmann, M., Roeske, T. & **Larrouy-Maestri, P.** (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. doi:[10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
-
-**Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (2021). Are you your best judge?: On the self-evaluation of singing. *Journal of Voice* 
 
 Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2021). The paradoxical role of emotional intensity in the perception of vocal affect. *Scientific Reports*[https://www.nature.com/articles/s41598-021-88431-0](https://www.nature.com/articles/s41598-021-88431-0){:target="_blank"}.
 
