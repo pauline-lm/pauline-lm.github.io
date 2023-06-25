@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+van Rijn, P., Poeppel, D., & **Larrouy-Maestri, P.** (preprint). Contribution of Pitch Measures over Time to Emotion Classification Accuracy. psyarxiv. doi:[10.31234/osf.io/pnysd](https://psyarxiv.com/pnysd/){:target="_blank"}.
+
+Teng, X., **Larrouy-Maestri, P.**, & Poeppel, D. (preprint). Musical phrasal segmentation and structural prediction underpinned by neural modulation and phase precession at ultra-low frequencies. doi:[10.1101/2021.07.15.452556](https://www.biorxiv.org/content/10.1101/2021.07.15.452556v1){:target="_blank"}.
+
 Van Rijn, P., & **Larrouy-Maestri, P.** (2023) Modeling individual and cross-cultural variation in the mapping of emotions to speech prosody. *Nature Human Behavior, 7, 386–396* doi:[10.1038/s41562-022-01505-5](https://www.nature.com/articles/s41562-022-01505-5){:target="_blank"}.
 
 **Larrouy-Maestri, P.**, Kegel, V., Schlotz, W., van Rijn, P., Menninghaus, W., & Poeppel, D. (2023) The meaning of spoken sentences can be twisted by a forward shift of prosodic stress. *Journal of Experimental Psychology: General. Advance Online Publication* doi:[10.1037/xge0001377](https://pubmed.ncbi.nlm.nih.gov/37079828/){:target="_blank"}.
@@ -20,7 +24,7 @@ Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2022). The variably intense vo
 
 Fink, L., Durojaye, C., Roeske, T., Wald-Fuhrmann, M., & **Larrouy-Maestri, P.** (2022). The dùndún
 drum helps us understand how we process speech and music. *Frontiers for Young Minds, section
-Neuroscience and Psychology*. Reviewed by kids
+Neuroscience and Psychology, 12:652673*. doi:[10.3389/fpsyg.2021.652673](https://kids.frontiersin.org/articles/10.3389/frym.2022.755390#:~:text=The%20D%C3%B9nd%C3%BAn%20can%20Help%20us%20Understand%20Human%20Perception&text=If%20you%20think%20about%20music,information%2C%20to%20recognizing%20something%20familiar.){:target="_blank"}.Reviewed by kids
 
 Durojaye, C., Fink, L., Wald-Fuhrmann, M., Roeske, T. & **Larrouy-Maestri, P.** (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. doi:[10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
 
