@@ -9,13 +9,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+**Larrouy-Maestri, P.**, Poeppel, D., & Pell, M. (2024) The sound of emotional prosody: Nearly three decades of research and future directions. *Perspective on Psychological Science.* doi:[10.1177/17456916231217722](https://journals.sagepub.com/doi/10.1177/17456916231217722){:target="_blank"}
+
 van Rijn, P., Poeppel, D., & **Larrouy-Maestri, P.** (preprint). Contribution of Pitch Measures over Time to Emotion Classification Accuracy. psyarxiv. doi:[10.31234/osf.io/pnysd](https://psyarxiv.com/pnysd/){:target="_blank"}.
 
 Teng, X., **Larrouy-Maestri, P.**, & Poeppel, D. (preprint). Musical phrasal segmentation and structural prediction underpinned by neural modulation and phase precession at ultra-low frequencies. doi:[10.1101/2021.07.15.452556](https://www.biorxiv.org/content/10.1101/2021.07.15.452556v1){:target="_blank"}.
 
 Van Rijn, P., & **Larrouy-Maestri, P.** (2023) Modeling individual and cross-cultural variation in the mapping of emotions to speech prosody. *Nature Human Behavior, 7, 386–396* doi:[10.1038/s41562-022-01505-5](https://www.nature.com/articles/s41562-022-01505-5){:target="_blank"}.
 
-**Larrouy-Maestri, P.**, Kegel, V., Schlotz, W., van Rijn, P., Menninghaus, W., & Poeppel, D. (2023) The meaning of spoken sentences can be twisted by a forward shift of prosodic stress. *Journal of Experimental Psychology: General. Advance Online Publication* doi:[10.1037/xge0001377](https://pubmed.ncbi.nlm.nih.gov/37079828/){:target="_blank"}.
+Bruder, C., & **Larrouy-Maestri, P.** (2023). Classical singers are also proficient in non-classical singing. *Frontiers in Psychology, 14, 1215370.* doi:[10.3389/fpsyg.2023.1215370](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1215370/full){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Kegel, V., Schlotz, W., van Rijn, P., Menninghaus, W., & Poeppel, D. (2023) The meaning of spoken sentences can be twisted by a forward shift of prosodic stress. *Journal of Experimental Psychology: General. 152(9):2438-2462* doi:[10.1037/xge0001377](https://pubmed.ncbi.nlm.nih.gov/37079828/){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (2023). Are you your best judge?: On the selfevaluation of singing. *Journal of Voice, 37(4), 633-e7.* doi:[10.1016/j.jvoice.2021.03.028]([https://doi.org/10.3389/fpsyg.2021.652673](https://www.sciencedirect.com/science/article/abs/pii/S0892199721001235)){:target="_blank"}.
 
 **Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (2022). Pitch units in music and speech prosody. In How language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
 doi:[10.1515/9783110770186](https://www.degruyter.com/document/doi/10.1515/9783110770186/html){:target="_blank"}.
@@ -27,8 +33,6 @@ drum helps us understand how we process speech and music. *Frontiers for Young M
 Neuroscience and Psychology, 12:652673*. doi:[10.3389/fpsyg.2021.652673](https://kids.frontiersin.org/articles/10.3389/frym.2022.755390#:~:text=The%20D%C3%B9nd%C3%BAn%20can%20Help%20us%20Understand%20Human%20Perception&text=If%20you%20think%20about%20music,information%2C%20to%20recognizing%20something%20familiar.){:target="_blank"}.Reviewed by kids
 
 Durojaye, C., Fink, L., Wald-Fuhrmann, M., Roeske, T. & **Larrouy-Maestri, P.** (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. doi:[10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
-
-**Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (2021). Are you your best judge?: On the selfevaluation of singing. *Journal of Voice. Advance Online Publication* doi:[10.1016/j.jvoice.2021.03.028]([https://doi.org/10.3389/fpsyg.2021.652673](https://www.sciencedirect.com/science/article/abs/pii/S0892199721001235)){:target="_blank"}.
 
 Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2021). The paradoxical role of emotional intensity in the perception of vocal affect. *Scientific Reports*[https://www.nature.com/articles/s41598-021-88431-0](https://www.nature.com/articles/s41598-021-88431-0){:target="_blank"}.
 
