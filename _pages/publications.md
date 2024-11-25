@@ -6,14 +6,24 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. If you don't have access to the pdf, please contact me (plm@ae.mpg.de).
 {% endif %}
 
-**Larrouy-Maestri, P.**, Poeppel, D., & Pell, M. (2024) The sound of emotional prosody: Nearly three decades of research and future directions. *Perspective on Psychological Science.* doi:[10.1177/17456916231217722](https://journals.sagepub.com/doi/10.1177/17456916231217722){:target="_blank"}
+**Larrouy-Maestri, P.**, Poeppel, D., & Pell, M. (2024) The sound of emotional prosody: Nearly three decades of research and future directions. *Perspective on Psychological Science.* doi:[10.1177/17456916231217722](https://journals.sagepub.com/doi/10.1177/17456916231217722){:target="_blank"}.
 
-van Rijn, P., Poeppel, D., & **Larrouy-Maestri, P.** (preprint). Contribution of Pitch Measures over Time to Emotion Classification Accuracy. psyarxiv. doi:[10.31234/osf.io/pnysd](https://psyarxiv.com/pnysd/){:target="_blank"}.
+Bruder, C., Frieler, K., & **Larrouy-Maestri, P.** (2024). Appreciation of singing and speaking voices is highly idiosyncratic. *Royal Society Open Science, 11(11),* 241623. doi:[10.1098/rsos.241623](https://royalsocietypublishing.org/doi/10.1098/rsos.241623){:target="_blank"}.
 
-Teng, X., **Larrouy-Maestri, P.**, & Poeppel, D. (preprint). Musical phrasal segmentation and structural prediction underpinned by neural modulation and phase precession at ultra-low frequencies. doi:[10.1101/2021.07.15.452556](https://www.biorxiv.org/content/10.1101/2021.07.15.452556v1){:target="_blank"}.
+Teng, X., **Larrouy-Maestri, P.**, & Poeppel, D. (2024). Segmenting and predicting musical phrase structure exploits neural gain modulation and phase precession. *Journal of Neuroscience, 44(30)*. doi:[10.1523/JNEUROSCI](https://www.jneurosci.org/content/44/30/e1331232024){:target="_blank"}.
+
+Bruder, C., Poeppel, D., & **Larrouy-Maestri, P.** (2024). Perceptual (but not acoustic) features predict singing voice preferences. *Scientific reports, 14(1),* 8977. doi:[10.1038/s41598-024-58924-9](https://www.nature.com/articles/s41598-024-58924-9){:target="_blank"}.
+
+Ozaki, Y., Tierney, A., Pfordresher, P. Q., McBride, J. M., Benetos, E., Proutskova, P., ... & Savage, P. E. (2024). Globally, songs and instrumental melodies are slower and higher and use more stable pitches than speech: A Registered Report. *Science advances, 10(20),* eadm9797. doi:[10.1126/sciadv.adm9797](https://www.science.org/doi/10.1126/sciadv.adm9797){:target="_blank"}.
+
+Tan, Y., Sun, Z., Teng, X., **Larrouy-Maestri, P.**, Duan, F., & Aoki, S. (2024). Effective network analysis in music listening based on electroencephalogram. *Computers and Electrical Engineering, 117,* 109191. doi:[10.1016/j.compeleceng.2024.109191](https://www.sciencedirect.com/science/article/pii/S0045790624001198){:target="_blank"}.
+
+van Rijn, P., Poeppel, D., & **Larrouy-Maestri, P.** (2023). Contribution of Pitch Measures over Time to Emotion Classification Accuracy. psyarxiv. doi:[10.31234/osf.io/pnysd](https://psyarxiv.com/pnysd/){:target="_blank"}.
+
+Fink, L., Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & **Larrouy-Maestri, P.** (2023). Features underlying speech versus music as categories of auditory experience. *Psy ArXiv.* doi:[10.31234/osf.io/2635u](https://osf.io/preprints/psyarxiv/2635u){:target="_blank"}.
 
 Van Rijn, P., & **Larrouy-Maestri, P.** (2023) Modeling individual and cross-cultural variation in the mapping of emotions to speech prosody. *Nature Human Behavior, 7, 386–396* doi:[10.1038/s41562-022-01505-5](https://www.nature.com/articles/s41562-022-01505-5){:target="_blank"}.
 
@@ -23,7 +33,7 @@ Bruder, C., & **Larrouy-Maestri, P.** (2023). Classical singers are also profici
 
 **Larrouy-Maestri, P.**, Wang, X., Vairo Nunes, R., & Poeppel, D. (2023). Are you your best judge?: On the selfevaluation of singing. *Journal of Voice, 37(4), 633-e7.* doi:[10.1016/j.jvoice.2021.03.028]([https://doi.org/10.3389/fpsyg.2021.652673](https://www.sciencedirect.com/science/article/abs/pii/S0892199721001235)){:target="_blank"}.
 
-**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (2022). Pitch units in music and speech prosody. In How language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
+**Larrouy-Maestri, P.**, Poeppel, D., & Pfordresher. P. (2023). Pitch units in music and speech prosody. In How language speaks to music: prosody from a cross-domain perspective, Richard Wiese, Mathias Scharinger Eds.
 doi:[10.1515/9783110770186](https://www.degruyter.com/document/doi/10.1515/9783110770186/html){:target="_blank"}.
 
 Holz, N., **Larrouy-Maestri, P.**, & Poeppel, D. (2022). The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception. *Emotion, 22*(1), 213–225. doi:[10.1037/emo0001048](https://doi.org/10.1037/emo0001048){:target="_blank"}.
