@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. If you don't have access to the pdf, please contact me (plm@ae.mpg.de).
 {% endif %}
 
-Bruder, C., & **Larrouy-Maestri, P.** (2025). CoVox: A dataset of contrasting vocalizations. *Behavior Research Methods, 57(5)*, 142. doi:[10.3758/s13428-025-02664-9]([https://journals.sagepub.com/doi/10.1177/17456916231217722](https://pubmed.ncbi.nlm.nih.gov/40216652/){:target="_blank"}.
+Bruder, C., & **Larrouy-Maestri, P.** (2025). CoVox: A dataset of contrasting vocalizations. *Behavior Research Methods, 57(5)*, 142. doi:[10.3758/s13428-025-02664-9](https://pubmed.ncbi.nlm.nih.gov/40216652/){:target="_blank"}.
 
 **Larrouy-Maestri, P.**, Poeppel, D., & Pell, M. (2024) The sound of emotional prosody: Nearly three decades of research and future directions. *Perspective on Psychological Science.* doi:[10.1177/17456916231217722](https://journals.sagepub.com/doi/10.1177/17456916231217722){:target="_blank"}.
 
