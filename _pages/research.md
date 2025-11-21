@@ -85,28 +85,47 @@ More specifically, we examine the categorization of utterances based on the inte
 Current collaboration with
 ======
 
+Lauren Fink<br />
 Melanie Wald-Fuhrmann<br />
 David Poeppel<br />
 Daniela Sammler<br />
-Lauren Fink<br />
-Xiangbin Teng<br />
-Lea Fink<br />
-Marc Pell<br />
-Winfried Menninghaus<br />
-Simone Dalla Bella<br />
-Pol van Rijn<br />
-Vanessa Kegel<br />
-Claire Pelofi<br />
-Youssef Amin<br />
+Hanna Ringer<br />
 Fredrik Ullén<br />
-Lara Pearson<br />
+Pat Savage<br />
+Neda Mousavi<br />
+Sarah Platte<br />
+Morten Schuldt Jensen<br />
+Dominique Morsomme<br />
+Angélique Remacle<br />
+Klaus Frieler<br />
+Xiangbin Teng<br />
+Zofia Hobubowska<br />
+
 
 Current supervision of
 ======
 
 Camila Bruder<br />
-Madita Hoerster<br />
+Janniek Wester<br />
+T. Ata Aydin<br />
+
+Previous (most recent) supervision of
+======
+
+Jonathan Mueller-Gerbes<br />
 Zofia Hobubowska<br />
+Zoe Nikolakis<br />
+Pol van Rijn<br />
+Madita Horster<br />
+Natalie Holz<br />
+Sebastian Hessler<br />
+Cecilia Musci<br />
+Franziska Hanning<br />
+Francie Hoehler<br />
+Xinyue Wang<br />
+Simone Franz<br />
+Renan Vairo Nunes<br />
+Marion Hubin<br />
 
 
 *If you wish to know more, feel free to contact me at plm@ae.mpg.de*
