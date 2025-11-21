@@ -9,9 +9,16 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. If you don't have access to the pdf, please contact me (plm@ae.mpg.de).
 {% endif %}
 
+
+Wester, J., & **Larrouy-Maestri, P.** (2025_preprint). Perception of humanness is affected by speech content. *PsyArXiv*. doi:[10.31234/osf.io/rbxst_v1](https://doi.org/10.31234/osf.io/rbxst_v1){:target="_blank"}.
+
+**Larrouy-Maestri, P.**, Ringer, H., Poeppel, D., & Sammler, D. (2025_preprint). The role of pitch in the vocal communication of intentions. *PsyArXiv*. doi:[10.31234/osf.io/tx9rf_v1](https://osf.io/preprints/psyarxiv/tx9rf_v1){:target="_blank"}.
+
+Bruder, C., Breda, P. & **Larrouy-Maestri, P.** (2025). Attractive Synthetic Voices. *Computers in Human Behavior: Artificial Humans, 6*. doi:[10.1016/j.chbah.2025.100211](https://www.sciencedirect.com/science/article/pii/S2949882125000957){:target="_blank"}.
+
 Bruder, C., & **Larrouy-Maestri, P.** (2025). CoVox: A dataset of contrasting vocalizations. *Behavior Research Methods, 57(5)*, 142. doi:[10.3758/s13428-025-02664-9](https://pubmed.ncbi.nlm.nih.gov/40216652/){:target="_blank"}.
 
-**Larrouy-Maestri, P.**, Poeppel, D., & Pell, M. (2024) The sound of emotional prosody: Nearly three decades of research and future directions. *Perspective on Psychological Science.* doi:[10.1177/17456916231217722](https://journals.sagepub.com/doi/10.1177/17456916231217722){:target="_blank"}.
+**Larrouy-Maestri, P.**, Poeppel, D., & Pell, M. (2025) The sound of emotional prosody: Nearly three decades of research and future directions. *Perspective on Psychological Science.* doi:[10.1177/17456916231217722](https://journals.sagepub.com/doi/10.1177/17456916231217722){:target="_blank"}.
 
 Bruder, C., Frieler, K., & **Larrouy-Maestri, P.** (2024). Appreciation of singing and speaking voices is highly idiosyncratic. *Royal Society Open Science, 11(11),* 241623. doi:[10.1098/rsos.241623](https://royalsocietypublishing.org/doi/10.1098/rsos.241623){:target="_blank"}.
 
