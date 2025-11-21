@@ -5,7 +5,6 @@ permalink: /reading/
 author_profile: true
 ---
 
-**2022**
 
 *Luke S.G. (2017) [Evaluating significance in linear mixed-effects models in R.](https://pubmed.ncbi.nlm.nih.gov/27620283/){:targets="_blank"} Behavioral Research Methods, 49(4):1494-1502. doi: 10.3758/s13428-016-0809-y.*
 
