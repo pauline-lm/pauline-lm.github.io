@@ -85,10 +85,10 @@ More specifically, we examine the categorization of utterances based on the inte
 Current collaboration with
 ======
 
-Lauren Fink<br />
-Melanie Wald-Fuhrmann<br />
 David Poeppel<br />
+Melanie Wald-Fuhrmann<br />
 Daniela Sammler<br />
+Lauren Fink<br />
 Hanna Ringer<br />
 Fredrik Ullén<br />
 Pat Savage<br />
