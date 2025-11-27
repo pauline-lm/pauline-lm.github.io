@@ -99,8 +99,18 @@ Together with Camila Bruder and leveraging the valuable insights of our collabor
 ![Aesthetics: Preferences](https://pauline-lm.github.io/images/Figure_Preferences_2.png)
 
 
+Next steps
+======
 
+The voice as a window into the brain: We investigate the strength and nature of acoustics-meaning mappings to reveal underlying cognitive and neural architecture.
 
+Interactionist approach to voice(s) perception: Given the multifaceted nature of the voice and its significance across diverse (sometimes overlapping) domains, we plan to broaden the scope of voice investigation beyond a singular context.
+
+![Voice perception: Next steps](https://pauline-lm.github.io/images/Figure_next_steps.png)
+
+Note about our group: In addition to embracing open-access science, we explore different approaches, such as large cross-cultural collaborations (see Ozaki et al., 2024) and interdisciplinary projects (e.g., with T. Ata Aydin, Melanie Wald-Fuhrmann, and Fredrik Ullén), to investigate the perceptual boundaries of different sound categories. Importantly, we are mindful of the biases introduced by experimental constraints and are committed to providing high-quality and ecologically valid stimulus sets (see Bruder & Larrouy-Maestri, 2025; Holz, Larrouy-Maestri, & Poeppel, 2021) and to test innovative methodological approaches, such as free sorting tasks (Fink, Hörster, Poeppel, Wald-Fuhrmann, & Larrouy-Maestri, preprint), to ensure our experimental findings are meaningful.
+
+<!-- 
 Categorisation of sounds
 ======
 
@@ -127,7 +137,7 @@ Last but not least, doing the best science we can! In addition to embracing open
 
 ![Categorisation of sounds: Non verbal vocalizations](https://pauline-lm.github.io/images/Figure_Emotional_vocalizations.png)
 
-
+-->
 
 
 Current collaboration with
