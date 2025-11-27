@@ -122,7 +122,7 @@ In parallel to our work on the time course of voice perception, we have also hig
 Last but not least, doing the best science we can! In addition to embracing open-access science, we explore different approaches, such as large cross-cultural collaborations (see Ozaki et al., 2024) and interdisciplinary projects (e.g., with T. Ata Aydin, Melanie Wald-Fuhrmann, and Fredrik Ullén), to investigate the perceptual boundaries of different sound categories. Importantly, we are mindful of the biases introduced by experimental constraints and are committed to providing high-quality and ecologically valid stimulus sets (see Bruder & Larrouy-Maestri, 2025; Holz, Larrouy-Maestri, & Poeppel, 2021) and to test innovative methodological approaches, such as free sorting tasks (Fink, Hörster, Poeppel, Wald-Fuhrmann, & Larrouy-Maestri, preprint), to ensure our experimental findings are meaningful.
 
 
-![Categorisation of sounds: CoVox](https://pauline-lm.github.io/images/Figure_Styles.png)
+![Categorisation of sounds: CoVox](https://pauline-lm.github.io/images/Figure_Styles_1.png)
 
 
 ![Categorisation of sounds: Non verbal vocalizations](https://pauline-lm.github.io/images/Figure_Emotional_vocalizations.png)
