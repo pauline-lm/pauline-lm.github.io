@@ -18,6 +18,8 @@ The voice is a multifaceted tool, central to the human experience. Whether ident
 Here are some examples of current research projects focusing on identity, communication, and aesthetics.
 
 
+
+
 Identity
 ======
 
@@ -25,11 +27,16 @@ Identity
 
 When asked, listeners do not always agree on whether a voice has a human source and can indeed be fooled. However, their performance in identifying voices is significantly better than chance (Bruder, Breda, & Larrouy-Maestri, 2025), which supports the human ability to distinguish between human- and machine-generated voices. In our latest work, we have made two key observations: the perception of a voice's humanness is significantly affected by speech content, and AI-voices still possess a characteristic prosodic contour that distinguishes them from human speech (Wester & Larrouy-Maestri, under review). Building on these findings, we are now working to determine the neural mechanisms behind "humanness" processing in collaboration with Nadine Lavan and Mathias Scharinger. This project is made possible thanks to the generous support of the Max Planck Society and an [Imminent Research Grant]( https://imminent.translated.com/research-grants-2){:target="_blank"}.
 
-![Identity: Attractiveness](https://pauline-lm.github.io/images/Figure_Attractive_synthetic_voices.png)
+
+![Identity: Attractiveness](https://pauline-lm.github.io/images/Attractive_synthetic_voices.png)
+
 
 ![Identity: Humanness perception](https://pauline-lm.github.io/images/Figure_Humanness_1.png)
 
+
 ![Identity: The sound of humanness](https://pauline-lm.github.io/images/Figure_Humanness_2.png)
+
+
 
 
 Language/communication
@@ -37,17 +44,25 @@ Language/communication
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tone of the voice is a fundamental channel for communicating emotional states and intentions. While the acoustic features of prosody have been studied extensively since Banse & Scherer's (1996) seminal work, the mechanisms underlying this communication are still not fully understood. In a recent interdisciplinary review spanning psychology, linguistics, acoustics, and more clinical fields, we synthesized approaches and findings to better describe the acoustic correlates of emotional prosody.
 
+
 ![Communication: The sound of emotional prosody](https://pauline-lm.github.io/images/Figure_Prosody_review.png)
+
 
 Whereas most listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers; misunderstandings easily occur. By analysing a large set of existing corpora, we identified some of the crucial factors affecting acoustic to meaning mappings in the case of emotion communication. 
 
+
 ![Communication: Large dataset](https://pauline-lm.github.io/images/Figure_Large_dataset.png)
+
 
 Our recent work investigates the cognitive processes underlying prosody comprehension, specifically how we integrate dynamic acoustic cues to understand intentions, such as irony (Larrouy-Maestri et al., 2023), criticism, or suggestion (Larrouy-Maestri et al., under review). In addition to identifying a crucial level of pitch information (within a two-dimensional space based on contour direction and spikiness), we (together with Hanna Ringer, Daniela Sammler, and David Poeppel) have identified distinct listener profiles that not only illuminate the sources of everyday miscommunication but also provide valuable insights for clinical applications.
 
+
 ![Communication: Irony](https://pauline-lm.github.io/images/Figure_Irony.png)
 
+
 ![Communication: Intentions](https://pauline-lm.github.io/images/Figure_Probier.png)
+
+
 
 
 Aesthetics
@@ -60,11 +75,15 @@ Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maes
 
 Explore your own perception: You can quantify your own correctness thresholds (or those of your participants) with our short and engaging Mistuning Perception Test, described in Larrouy-Maestri, Harrison, and Müllensiefen (2019).
 
+
 ![Aesthetics: Correctness](https://pauline-lm.github.io/images/Figure_Correctness_1.png)
 
-![Aesthetics: Correctness of complex signals](https://pauline-lm.github.io/images/Figure_Correctness_1.png)
+
+![Aesthetics: Correctness of complex signals](https://pauline-lm.github.io/images/Figure_Correctness_2.png)
+
 
 ![Aesthetics: Correctness thresholds](https://pauline-lm.github.io/images/Figure_Mistuning_perception_test.png)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*From correctness to preferences*
 ---------------
@@ -73,9 +92,13 @@ Previous studies showed that lay and expert listeners share similar definitions 
 
 Together with Camila Bruder and leveraging the valuable insights of our collaborators, we are examining what “preference” means in the context of sung performances and exploring the roots (and idiosyncrasies) of this aesthetic experience.
 
+
 ![Aesthetics: Acoustic and perceptual ground of singing preferences](https://pauline-lm.github.io/images/Figure_Preferences_1.png)
 
+
 ![Aesthetics: Preferences](https://pauline-lm.github.io/images/Figure_Preferences_2.png)
+
+
 
 
 Categorisation of sounds
@@ -83,20 +106,27 @@ Categorisation of sounds
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although we can quickly categorize sounds as music, speech, or a scream, the process of forming these abstract categories remains unclear. By examining ambiguous auditory material, such as Sprechgesang (Merrill & Larrouy-Maestri, 2017), or performances from a West-African talking drum capable of speech surrogacy (Durojaye, Fink, Roeske, Wald-Fuhrmann, & Larrouy-Maestri, 2021), we have clarified the association between music/speech categories and specific acoustic features, as well as the role of listener familiarity with the material.
 
+
 ![Categorisation of sounds: Dùndún](https://pauline-lm.github.io/images/Figure_Dundun.png)
+
 
 In parallel to our work on the time course of voice perception, we have also highlighted the need to go beyond the usual units of notes and sequences. For instance, we have identified the role of "scoops"—small dynamic pitch changes at the start or end of sung notes within a melody—in singing perception (Larrouy-Maestri & Pfordresher, 2018; Larrouy-Maestri, Poeppel, & Pfordresher, 2023). Furthermore, we have observed behavioral and neural tracking of longer, temporally irregular sequences (e.g., in work with Zofia Hulobowska, Xiangbin Teng, and David Poeppel)
 
+
 ![Categorisation of sounds: Small units](https://pauline-lm.github.io/images/Figure_Scoops.png)
+
 
 ![Categorisation of sounds: Long units](https://pauline-lm.github.io/images/Figure_Phrases.png)
 
 
 Last but not least, doing the best science we can! In addition to embracing open-access science, we explore different approaches, such as large cross-cultural collaborations (see Ozaki et al., 2024) and interdisciplinary projects (e.g., with T. Ata Aydin, Melanie Wald-Fuhrmann, and Fredrik Ullén), to investigate the perceptual boundaries of different sound categories. Importantly, we are mindful of the biases introduced by experimental constraints and are committed to providing high-quality and ecologically valid stimulus sets (see Bruder & Larrouy-Maestri, 2025; Holz, Larrouy-Maestri, & Poeppel, 2021) and to test innovative methodological approaches, such as free sorting tasks (Fink, Hörster, Poeppel, Wald-Fuhrmann, & Larrouy-Maestri, preprint), to ensure our experimental findings are meaningful.
 
+
 ![Categorisation of sounds: CoVox](https://pauline-lm.github.io/images/Figure_Styles.png)
 
+
 ![Categorisation of sounds: Non verbal vocalizations](https://pauline-lm.github.io/images/Figure_Emotional_vocalizations.png)
+
 
 
 
@@ -128,6 +158,7 @@ Current supervision of
 Camila Bruder<br />
 Janniek Wester<br />
 T. Ata Aydin<br />
+
 
 Previous (most recent) supervision of
 ======
