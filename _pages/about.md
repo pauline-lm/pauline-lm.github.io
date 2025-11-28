@@ -11,7 +11,7 @@ About me
 
 I am a researcher at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/){:target="_blank"}. After graduating in music therapy, pedagogy, psychology, music, and speech language pathology, I completed my PhD in the Faculty of [Psychologie, Logopédie et Sciences de l'Education](https://www.fplse.uliege.be/cms/c_4037467/en/faculte-de-psychologie-logo-et-sc-de-l-education){:target="_blank"} with Dominique Morsomme. I had the chance to work with Sean Hutchins and Isabelle Peretz at [BRAMS](https://brams.org/){:target="_blank"}, to join the [APAL lab](https://ubwp.buffalo.edu/apal-pfordresher/){:target="_blank"} of Peter Pfordresher, the [Neuropragmatic and emotions lab](https://www.mcgill.ca/pell_lab/){:target="_blank"} of Marc Pell, and to work for some years with David Poeppel in the [Neuroscience Department of the MPIEA](https://www.aesthetics.mpg.de/en/research/former-departments/department-of-neuroscience.html){:target="_blank"} and the [Max Planck • NYU Center for Language Music and Emotion](https://clame.nyu.edu/){:target="_blank"}.
 
-This background might look disparate but no, it is all about **sounds and meanings**!
+This background might look disparate but no, it is all about **voice(s)**!
 
 More generally, I enjoy science, playing piano & life (random order).
 
