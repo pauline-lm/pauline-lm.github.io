@@ -54,7 +54,7 @@ Language/communication
 
 Whereas most listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers; misunderstandings easily occur. By analysing a large set of existing corpora, we identified some of the crucial factors affecting acoustic to meaning mappings in the case of emotion communication. 
 
-<img src="https://pauline-lm.github.io/images/Figure_Large_dataset.pn" 
+<img src="https://pauline-lm.github.io/images/Figure_Large_dataset.png" 
      alt="Communication"
      style="border: 2px solid #000; border-radius: 4px;"/>
 
