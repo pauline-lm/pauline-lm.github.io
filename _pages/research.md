@@ -75,15 +75,21 @@ Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maes
 
 Explore your own perception: You can quantify your own correctness thresholds (or those of your participants) with our short and engaging Mistuning Perception Test, described in Larrouy-Maestri, Harrison, and Müllensiefen (2019).
 
+<img src="https://pauline-lm.github.io/images/Figure_Correctness_1.png" 
+     alt="Aesthetics: Preferences"
+     style="border: 2px solid #000; border-radius: 4px;"/>
+     
 
-![Aesthetics: Correctness](https://pauline-lm.github.io/images/Figure_Correctness_1.png)
+<img src="https://pauline-lm.github.io/images/Figure_Correctness_2.png" 
+     alt="Aesthetics: Preferences"
+     style="border: 2px solid #000; border-radius: 4px;"/>
+     
 
+<img src="https://pauline-lm.github.io/images/Figure_Mistuning_perception_test.png" 
+     alt="Aesthetics: Preferences"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
-![Aesthetics: Correctness of complex signals](https://pauline-lm.github.io/images/Figure_Correctness_2.png)
-
-
-![Aesthetics: Correctness thresholds](https://pauline-lm.github.io/images/Figure_Mistuning_perception_test.png)
-
+     
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*From correctness to preferences*
 ---------------
@@ -92,12 +98,13 @@ Previous studies showed that lay and expert listeners share similar definitions 
 
 Together with Camila Bruder and leveraging the valuable insights of our collaborators, we are examining what “preference” means in the context of sung performances and exploring the roots (and idiosyncrasies) of this aesthetic experience.
 
-
-![Aesthetics: Acoustic and perceptual ground of singing preferences](https://pauline-lm.github.io/images/Figure_Preferences_1.png)
-
+<img src="https://pauline-lm.github.io/images/Figure_Preferences_1.png" 
+     alt="Aesthetics: Preferences"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 <!-- 
 ![Aesthetics: Preferences](https://pauline-lm.github.io/images/Figure_Preferences_2.png)
 --> 
+
 <img src="https://pauline-lm.github.io/images/Figure_Preferences_2.png" 
      alt="Aesthetics: Preferences"
      style="border: 2px solid #000; border-radius: 4px;"/>
