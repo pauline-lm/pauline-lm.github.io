@@ -28,14 +28,17 @@ Identity
 When asked, listeners do not always agree on whether a voice has a human source and can indeed be fooled. However, their performance in identifying voices is significantly better than chance (Bruder, Breda, & Larrouy-Maestri, 2025), which supports the human ability to distinguish between human- and machine-generated voices. In our latest work, we have made two key observations: the perception of a voice's humanness is significantly affected by speech content, and AI-voices still possess a characteristic prosodic contour that distinguishes them from human speech (Wester & Larrouy-Maestri, under review). Building on these findings, we are now working to determine the neural mechanisms behind "humanness" processing in collaboration with Nadine Lavan and Mathias Scharinger. This project is made possible thanks to the generous support of the Max Planck Society and an [Imminent Research Grant]( https://imminent.translated.com/research-grants-2){:target="_blank"}.
 
 
-![Identity: Attractiveness](https://pauline-lm.github.io/images/Attractive_synthetic_voices.png)
+<img src="https://pauline-lm.github.io/images/Attractive_synthetic_voices.png" 
+     alt="Identity: Attractiveness"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
+<img src="https://pauline-lm.github.io/images/Figure_Humanness_1.png" 
+     alt="Identity: Humanness perception"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
-![Identity: Humanness perception](https://pauline-lm.github.io/images/Figure_Humanness_1.png)
-
-
-![Identity: The sound of humanness](https://pauline-lm.github.io/images/Figure_Humanness_2.png)
-
+<img src="https://pauline-lm.github.io/images/Figure_Humanness_2.png" 
+     alt="Identity: The sound of humanness"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
 
 
@@ -44,24 +47,27 @@ Language/communication
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The tone of the voice is a fundamental channel for communicating emotional states and intentions. While the acoustic features of prosody have been studied extensively since Banse & Scherer's (1996) seminal work, the mechanisms underlying this communication are still not fully understood. In a recent interdisciplinary review spanning psychology, linguistics, acoustics, and more clinical fields, we synthesized approaches and findings to better describe the acoustic correlates of emotional prosody.
 
-
-![Communication: The sound of emotional prosody](https://pauline-lm.github.io/images/Figure_Prosody_review.png)
+<img src="https://pauline-lm.github.io/images/Figure_Prosody_review.png" 
+     alt="Communication"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
 
 Whereas most listeners seem to share the ‘code’ (or interpret adequately a prosodic signal) to access emotions/intentions of speakers; misunderstandings easily occur. By analysing a large set of existing corpora, we identified some of the crucial factors affecting acoustic to meaning mappings in the case of emotion communication. 
 
-
-![Communication: Large dataset](https://pauline-lm.github.io/images/Figure_Large_dataset.png)
+<img src="https://pauline-lm.github.io/images/Figure_Large_dataset.pn" 
+     alt="Communication"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
 
 Our recent work investigates the cognitive processes underlying prosody comprehension, specifically how we integrate dynamic acoustic cues to understand intentions, such as irony (Larrouy-Maestri et al., 2023), criticism, or suggestion (Larrouy-Maestri et al., under review). In addition to identifying a crucial level of pitch information (within a two-dimensional space based on contour direction and spikiness), we (together with Hanna Ringer, Daniela Sammler, and David Poeppel) have identified distinct listener profiles that not only illuminate the sources of everyday miscommunication but also provide valuable insights for clinical applications.
 
+<img src="https://pauline-lm.github.io/images/Figure_Irony.png" 
+     alt="Communication"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
-![Communication: Irony](https://pauline-lm.github.io/images/Figure_Irony.png)
-
-
-![Communication: Intentions](https://pauline-lm.github.io/images/Figure_Probier.png)
-
+<img src="https://pauline-lm.github.io/images/Figure_Probier.png" 
+     alt="Communication"
+     style="border: 2px solid #000; border-radius: 4px;"/>
 
 
 
@@ -76,17 +82,15 @@ Listeners can easily say if a singer sounds in tune or out of tune (Larrouy-Maes
 Explore your own perception: You can quantify your own correctness thresholds (or those of your participants) with our short and engaging Mistuning Perception Test, described in Larrouy-Maestri, Harrison, and Müllensiefen (2019).
 
 <img src="https://pauline-lm.github.io/images/Figure_Correctness_1.png" 
-     alt="Aesthetics: Preferences"
+     alt="Aesthetics: Correctness"
      style="border: 2px solid #000; border-radius: 4px;"/>
      
-
 <img src="https://pauline-lm.github.io/images/Figure_Correctness_2.png" 
-     alt="Aesthetics: Preferences"
+     alt="Aesthetics: Correctness"
      style="border: 2px solid #000; border-radius: 4px;"/>
      
-
 <img src="https://pauline-lm.github.io/images/Figure_Mistuning_perception_test.png" 
-     alt="Aesthetics: Preferences"
+     alt="Aesthetics: Correctness"
      style="border: 2px solid #000; border-radius: 4px;"/>
 
      
