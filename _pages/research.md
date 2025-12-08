@@ -105,9 +105,6 @@ Together with Camila Bruder and leveraging the valuable insights of our collabor
 <img src="https://pauline-lm.github.io/images/Figure_Preferences_1.png" 
      alt="Aesthetics: Preferences"
      style="border: 2px solid #000; border-radius: 4px;"/>
-<!-- 
-![Aesthetics: Preferences](https://pauline-lm.github.io/images/Figure_Preferences_2.png)
---> 
 
 <img src="https://pauline-lm.github.io/images/Figure_Preferences_2.png" 
      alt="Aesthetics: Preferences"
