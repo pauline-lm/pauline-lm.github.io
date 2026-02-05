@@ -5,14 +5,12 @@ permalink: /barbara/
 author_profile: true
 ---
 
-Under construction.. be patient :)
+Together with Zofia Holubowska and Lea Fink, we organised the "Barbara club." Fueled by coffee, cake, and good vibes, we read and discussed several articles of Barbara Tillmann, sharing thoughts on music structure, perception, phrase tracking, and related topics. The conversations were lively and deeply enriching, informing and inspiring our own ongoing research. Credit to Zofia for the notes of our discussions that are summarized below.
 
-Together with Zofia Holubowska and Lea Fink, we organised the "Barbara club." Fueled by coffee, cake, and good vibes, we read and discussed several articles of Barbara Tillmann, sharing thoughts on music structure, perception, phrase tracking, and related topics. The conversations were lively and deeply enriching, informing and inspiring our own ongoing research. Credit to Zofia for the notes of our discussions that are summarized below
-
-Warning: These summaries are not exhaustive and do not aim to reflect Barbara Tillmann’s own views, but rather our humble interpretation of a selected subset of papers, shaped by our interests and discussions.
+*Warning: These summaries are not exhaustive and do not aim to reflect Barbara Tillmann’s own views, but rather our humble interpretation of a selected subset of papers, shaped by our interests and discussions.*
 
 
-Tillmann, B., Bigand, E. & Madurell, F. (1998). Local versus global processing of harmonic cadences in the solution of musical puzzles. *Psychological Research, 61*, 157–174. [https://doi.org/10.1007/s004260050022](https://link.springer.com/article/10.1007/s004260050022){:target="_blank"}.
+[Tillmann, B., Bigand, E. & Madurell, F. (1998). Local versus global processing of harmonic cadences in the solution of musical puzzles. *Psychological Research, 61*, 157–174. https://doi.org/10.1007/s004260050022](https://link.springer.com/article/10.1007/s004260050022){:target="_blank"}.
 
 Music unfolds through alternating patterns of tension and resolution, with cadences playing a central role in marking phrase endings. While listeners are known to be sensitive to the degree of closure/completeness conveyed by different cadences, this study addressed a more specific question: how much context do listeners use when forming these judgments?
 To investigate this, Tillmann and colleagues introduced an original musical puzzle paradigm. Sixteen-bar excerpts from minuets by Bach, Haydn, and Mozart were divided into two 8-bar halves. The first half ended either with a half cadence (locally incomplete) or with an authentic cadence in the dominant key (locally complete but globally unresolved). Participants were asked to match the first halves with their correct second halves.
