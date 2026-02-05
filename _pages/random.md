@@ -1,6 +1,6 @@
 ---
 permalink: /random/
-title: "Random thoughts"
+title: "Some music"
 excerpt: "Random"
 author_profile: true
 ---
