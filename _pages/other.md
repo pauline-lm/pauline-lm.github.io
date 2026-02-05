@@ -28,5 +28,5 @@ On a weekly basis, we (i.e., interested colleagues and students) read and discus
 ### [Quotes](https://pauline-lm.github.io/quotes/){:target="_blank"} 
 Kind of notes
 
-### [Random thoughts](https://pauline-lm.github.io/random/){:target="_blank"} 
-Because life is not always about sounds and meanings, I might want to share other things here.
+### [Random](https://pauline-lm.github.io/random/){:target="_blank"} 
+Because life is not always about research, I am happy to share other things here.
