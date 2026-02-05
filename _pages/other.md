@@ -15,6 +15,9 @@ Links to old or recent papers that I'm excited about.
 ### [Listening](https://pauline-lm.github.io/listening/){:target="_blank"} 
 Links to talks which made me think.
 
+### [Barbara Club](https://pauline-lm.github.io/barbara/){:target="_blank"} 
+On a weekly basis, we (i.e., Zofia Holubowska, Lea Fink, and myself + interested colleagues and students) read and discussed some of the seminal work of Barbara Tillmann on musical structure. Here are some thoughts/summaries.
+
 <!---
 
 ### [Lessons learned](https://pauline-lm.github.io/lessons/){:target="_blank"} 
