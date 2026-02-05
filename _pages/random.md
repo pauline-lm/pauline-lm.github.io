@@ -20,4 +20,4 @@ Under construction.. Be patient :)
 <video width="600" controls>
   <source src="/Files/Leo_entertainment.mp4" type="video/mp4">
 </video>
-<p><em>Improvised four-hand Joplin Entertainment.</em></p>
+<p><em>Improvised four-hand Joplin Entertainer.</em></p>
