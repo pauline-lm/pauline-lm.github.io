@@ -42,7 +42,7 @@ The authors argue that listeners possess robust implicit knowledge of Western to
 This perspective offers a unifying framework for the earlier findings: music perception appears to operate primarily within short temporal windows, with local harmonic information playing a central role in shaping expectations and perceptual judgments.
 
 
-#To conclude..
+# To conclude..
 
 Taken together, these articles (among others) set solid ground in the study of musical expectations. Beginning with innovative paradigms that dissociate local and global harmonic functions, such work demonstrates that local context plays a decisive role across a wide range of perceptual tasks, including completion judgments, target detection, consonance evaluation, and mistuning perception, while still acknowledging the relevance of global structure. This group of smart researchers have clearly inspired other studies, including our own work on phrase tracking in both regular (Teng, Larrouy-Maestri, & Poeppel, 2024) and irregular musical contexts (Holubowska, Teng, & Larrouy-Maestri, 2025, preprint).
 
