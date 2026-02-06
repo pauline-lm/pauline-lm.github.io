@@ -7,7 +7,9 @@ author_profile: true
 
 Below you will find miscellaneous information on a variety of topics. Click the topic headers to learn more! 
 
-*Warning: Nothing fancy or pretentious, mainly memory notes, perhaps useful to others.*
+<!---
+*Warning: Nothing very serious.*
+-->
 
 ### [Reading](https://pauline-lm.github.io/reading/){:target="_blank"} 
 Links to old or recent papers that I'm excited about.
@@ -16,7 +18,7 @@ Links to old or recent papers that I'm excited about.
 Links to talks which made me think.
 
 ### [Barbara Club](https://pauline-lm.github.io/barbara/){:target="_blank"} 
-On a weekly basis, we (i.e., Zofia Holubowska, Lea Fink, and myself + interested colleagues and students) read and discussed some of the seminal work of Barbara Tillmann on musical structure. Here are some thoughts/summaries.
+We (i.e., Zofia Holubowska, Lea Fink, and myself + interested colleagues and students) read and discussed some of the seminal work of Barbara Tillmann on musical structure. Here are some thoughts/summaries.
 
 <!---
 
