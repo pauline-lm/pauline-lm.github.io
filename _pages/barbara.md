@@ -5,7 +5,9 @@ permalink: /barbara/
 author_profile: true
 ---
 
-Together with Zofia Holubowska and Lea Fink, we organised the "Barbara club." Fueled by coffee, cake, and good vibes, we read and discussed several articles of Barbara Tillmann, sharing thoughts on music structure, perception, phrase tracking, and related topics. The conversations were lively and deeply enriching, informing and inspiring our own ongoing research. Credit to Zofia for the notes of our discussions that are summarized below.
+Together with Zofia Holubowska and Lea Fink, we organised the "**Barbara Club**." Fueled by coffee, cake, and good vibes, we read and discussed several articles of Barbara Tillmann's group, sharing thoughts on music structure, perception, phrase tracking, and related topics. The conversations were lively and deeply enriching, informing and inspiring our own ongoing research. 
+
+Credit to Zofia for the notes of our discussions that are summarized below.
 
 *Warning: These summaries are not exhaustive and do not aim to reflect Barbara Tillmann’s own views, but rather our humble interpretation of a selected subset of papers, shaped by our interests and discussions.*
 
