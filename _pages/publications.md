@@ -9,8 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. If you don't have access to the pdf, please contact me (plm@ae.mpg.de).
 {% endif %}
 
+Wester, J., & **Larrouy-Maestri, P.** (2026). Perception of humanness is affected by speech content. *Speech Communication, 181*. doi:[10.1016/j.specom.2026.103398](https://www.sciencedirect.com/science/article/pii/S0167639326000464){:target="_blank"}.
 
-Wester, J., & **Larrouy-Maestri, P.** (2025_preprint). Perception of humanness is affected by speech content. *PsyArXiv*. doi:[10.31234/osf.io/rbxst_v1](https://doi.org/10.31234/osf.io/rbxst_v1){:target="_blank"}.
+Hołubowska, Z., Teng, X., & **Larrouy-Maestri, P.** (2026). Neural and behavioral tracking of musical phrases occurs without temporal regularity. *European Journal of Neuroscience, 63(7)*. doi:[10.1111/ejn.70481](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70481){:target="_blank"}.
 
 **Larrouy-Maestri, P.**, Ringer, H., Poeppel, D., & Sammler, D. (2025_preprint). The role of pitch in the vocal communication of intentions. *PsyArXiv*. doi:[10.31234/osf.io/tx9rf_v1](https://osf.io/preprints/psyarxiv/tx9rf_v1){:target="_blank"}.
 
