@@ -13,6 +13,6 @@ width="640" height="360" allow="autoplay"></iframe>
 width="640" height="360" allow="autoplay"></iframe>
 <p><em>Next generation. Composition for toy piano.</em></p>
 
-<iframe src="https://drive.google.com/file/d/1yj_3Z-zt5U9gkzJw_wwKgR1cAft6Jrzv/preview"  
+<iframe src="https://drive.google.com/file/d/1s8fao08IRHEfTDmPBLXCde8xwe7i6Lxf/view?usp=sharing"  
 width="640" height="360" allow="autoplay"></iframe>
 <p><em>Improvised four-hand Joplin Entertainer.</em></p>
