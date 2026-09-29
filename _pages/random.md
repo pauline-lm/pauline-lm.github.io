@@ -5,7 +5,7 @@ excerpt: "Random"
 author_profile: true
 ---
 
-<iframe src="https://drive.google.com/file/d/1G8khe64IoEXxmxfzUe66Y2gAbFCZeIe8/view?usp=share_link"
+<iframe src="https://drive.google.com/file/d/1G8khe64IoEXxmxfzUe66Y2gAbFCZeIe8/preview"
 width="640" height="360" allow="autoplay"></iframe>
 <p><em>Haydn - Sonate E minor, 3rd mvt Vivace Molto.</em></p>
 
@@ -13,6 +13,6 @@ width="640" height="360" allow="autoplay"></iframe>
 width="640" height="360" allow="autoplay"></iframe>
 <p><em>Next generation. Composition for toy piano.</em></p>
 
-<iframe src="https://drive.google.com/file/d/1s8fao08IRHEfTDmPBLXCde8xwe7i6Lxf/view?usp=sharing"  
+<iframe src="https://drive.google.com/file/d/1s8fao08IRHEfTDmPBLXCde8xwe7i6Lxf/preview"  
 width="640" height="360" allow="autoplay"></iframe>
 <p><em>Improvised four-hand Joplin Entertainer.</em></p>
