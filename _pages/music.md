@@ -1,7 +1,7 @@
 ---
-permalink: /random/
+permalink: /music/
 title: "Some music"
-excerpt: "Random"
+excerpt: "Music"
 author_profile: true
 ---
 
