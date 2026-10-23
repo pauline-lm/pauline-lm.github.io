@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. If you don't have access to the pdf, please contact me (plm@ae.mpg.de).
 {% endif %}
 
+**Larrouy-Maestri, P.**, Ringer, H., Poeppel, D., & Sammler, D. (2027). The role of pitch in the vocal communication of intentions. *Cognition, 278*. doi:[10.1016/j.cognition.2026.106714](https://www.sciencedirect.com/science/article/pii/S0010027726002830){:target="_blank"}.
+
 Wester, J., & **Larrouy-Maestri, P.** (2026). Perception of humanness is affected by speech content. *Speech Communication, 181*. doi:[10.1016/j.specom.2026.103398](https://www.sciencedirect.com/science/article/pii/S0167639326000464){:target="_blank"}.
 
 **Larrouy-Maestri, P.**, Aydin, T.A., & Wald-Fuhrmann, M. (2026). Music is a distinct perceptual category with subjective grounds. *Scientific Reports, 16*. doi:[10.1038/s41598-026-54414-2](https://www.nature.com/articles/s41598-026-54414-2#citeas){:target="_blank"}.
