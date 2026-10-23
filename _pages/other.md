@@ -37,8 +37,8 @@ Kind of notes
 
 -->
 
-### [Random](https://pauline-lm.github.io/random/){:target="_blank"} 
+### [Music](https://pauline-lm.github.io/music/){:target="_blank"} 
 Because life is not always about research, I am happy to share other things here.
 
-### [Elsewhere](https://pauline-lm.github.io/Elsewhere/){:target="_blank"} 
+### [Random](https://pauline-lm.github.io/XXX/){:target="_blank"} 
 Not sure where to put that.
