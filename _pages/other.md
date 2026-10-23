@@ -40,5 +40,5 @@ Kind of notes
 ### [Random](https://pauline-lm.github.io/random/){:target="_blank"} 
 Because life is not always about research, I am happy to share other things here.
 
-### [Other](https://pauline-lm.github.io/other/){:target="_blank"} 
+### [Elsewhere](https://pauline-lm.github.io/Elsewhere/){:target="_blank"} 
 Not sure where to put that.
